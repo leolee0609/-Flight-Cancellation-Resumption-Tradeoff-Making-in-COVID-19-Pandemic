@@ -1,0 +1,2810 @@
+,Original,Destination,passengers
+0,Montana,Montana,3296.0
+1,Montana,Florida,184.0
+2,Montana,Washington,30025.0
+3,Montana,Arkansas,0.0
+4,Montana,South Dakota,4.0
+5,Montana,Mississippi,0.0
+6,Montana,Kansas,0.0
+7,Montana,Virginia,459.0
+8,Montana,Georgia,1599.0
+9,Montana,Kentucky,0.0
+10,Montana,Rhode Island,0.0
+11,Montana,Oklahoma,0.0
+12,Montana,Louisiana,0.0
+13,Montana,Minnesota,27276.0
+14,Montana,U.S. Pacific Trust Territories and Possessions,0.0
+15,Montana,Michigan,508.0
+16,Montana,Pennsylvania,727.0
+17,Montana,Nebraska,0.0
+18,Montana,Wyoming,133.0
+19,Montana,Oregon,2382.0
+20,Montana,Iowa,86.0
+21,Montana,South Carolina,0.0
+22,Montana,Vermont,0.0
+23,Montana,Maryland,0.0
+24,Montana,Connecticut,0.0
+25,Montana,North Carolina,7076.0
+26,Montana,New Mexico,0.0
+27,Montana,U.S. Virgin Islands,0.0
+28,Montana,Texas,21820.0
+29,Montana,New Jersey,734.0
+30,Montana,New Hampshire,0.0
+31,Montana,Alaska,0.0
+32,Montana,North Dakota,0.0
+33,Montana,Maine,0.0
+34,Montana,Colorado,64056.0
+35,Montana,California,11680.0
+36,Montana,Missouri,0.0
+37,Montana,Nevada,9021.0
+38,Montana,Delaware,0.0
+39,Montana,Wisconsin,107.0
+40,Montana,New York,1253.0
+41,Montana,Puerto Rico,0.0
+42,Montana,Ohio,0.0
+43,Montana,Alabama,0.0
+44,Montana,Utah,38778.0
+45,Montana,Hawaii,0.0
+46,Montana,Illinois,17837.0
+47,Montana,Indiana,0.0
+48,Montana,Idaho,3.0
+49,Montana,West Virginia,0.0
+50,Montana,Tennessee,981.0
+51,Montana,Arizona,5506.0
+52,Montana,Massachusetts,231.0
+53,Florida,Montana,169.0
+54,Florida,Florida,233196.0
+55,Florida,Washington,33536.0
+56,Florida,Arkansas,3078.0
+57,Florida,South Dakota,0.0
+58,Florida,Mississippi,3667.0
+59,Florida,Kansas,240.0
+60,Florida,Virginia,172316.0
+61,Florida,Georgia,594621.0
+62,Florida,Kentucky,81337.0
+63,Florida,Rhode Island,25663.0
+64,Florida,Oklahoma,5264.0
+65,Florida,Louisiana,16045.0
+66,Florida,Minnesota,62618.0
+67,Florida,U.S. Pacific Trust Territories and Possessions,0.0
+68,Florida,Michigan,133632.0
+69,Florida,Pennsylvania,238854.0
+70,Florida,Nebraska,2268.0
+71,Florida,Wyoming,0.0
+72,Florida,Oregon,4312.0
+73,Florida,Iowa,5284.0
+74,Florida,South Carolina,16836.0
+75,Florida,Vermont,0.0
+76,Florida,Maryland,159203.0
+77,Florida,Connecticut,52213.0
+78,Florida,North Carolina,339286.0
+79,Florida,New Mexico,229.0
+80,Florida,U.S. Virgin Islands,21741.0
+81,Florida,Texas,553922.0
+82,Florida,New Jersey,282563.0
+83,Florida,New Hampshire,6881.0
+84,Florida,Alaska,0.0
+85,Florida,North Dakota,0.0
+86,Florida,Maine,4187.0
+87,Florida,Colorado,140272.0
+88,Florida,California,151928.0
+89,Florida,Missouri,101253.0
+90,Florida,Nevada,56964.0
+91,Florida,Delaware,689.0
+92,Florida,Wisconsin,22286.0
+93,Florida,New York,471711.0
+94,Florida,Puerto Rico,142951.0
+95,Florida,Ohio,99480.0
+96,Florida,Alabama,11140.0
+97,Florida,Utah,32072.0
+98,Florida,Hawaii,1039.0
+99,Florida,Illinois,313077.0
+100,Florida,Indiana,59174.0
+101,Florida,Idaho,137.0
+102,Florida,West Virginia,5114.0
+103,Florida,Tennessee,129397.0
+104,Florida,Arizona,42122.0
+105,Florida,Massachusetts,164301.0
+106,Washington,Montana,29123.0
+107,Washington,Florida,34647.0
+108,Washington,Washington,167239.0
+109,Washington,Arkansas,0.0
+110,Washington,South Dakota,0.0
+111,Washington,Mississippi,0.0
+112,Washington,Kansas,1798.0
+113,Washington,Virginia,25035.0
+114,Washington,Georgia,44133.0
+115,Washington,Kentucky,7330.0
+116,Washington,Rhode Island,2.0
+117,Washington,Oklahoma,2873.0
+118,Washington,Louisiana,2512.0
+119,Washington,Minnesota,50875.0
+120,Washington,U.S. Pacific Trust Territories and Possessions,0.0
+121,Washington,Michigan,26286.0
+122,Washington,Pennsylvania,18200.0
+123,Washington,Nebraska,4374.0
+124,Washington,Wyoming,960.0
+125,Washington,Oregon,94811.0
+126,Washington,Iowa,0.0
+127,Washington,South Carolina,3818.0
+128,Washington,Vermont,0.0
+129,Washington,Maryland,5365.0
+130,Washington,Connecticut,0.0
+131,Washington,North Carolina,18355.0
+132,Washington,New Mexico,4883.0
+133,Washington,U.S. Virgin Islands,0.0
+134,Washington,Texas,100539.0
+135,Washington,New Jersey,24830.0
+136,Washington,New Hampshire,0.0
+137,Washington,Alaska,110298.0
+138,Washington,North Dakota,0.0
+139,Washington,Maine,0.0
+140,Washington,Colorado,99593.0
+141,Washington,California,399265.0
+142,Washington,Missouri,18297.0
+143,Washington,Nevada,102228.0
+144,Washington,Delaware,0.0
+145,Washington,Wisconsin,5024.0
+146,Washington,New York,29167.0
+147,Washington,Puerto Rico,0.0
+148,Washington,Ohio,4232.0
+149,Washington,Alabama,0.0
+150,Washington,Utah,59376.0
+151,Washington,Hawaii,58171.0
+152,Washington,Illinois,79432.0
+153,Washington,Indiana,4907.0
+154,Washington,Idaho,34043.0
+155,Washington,West Virginia,0.0
+156,Washington,Tennessee,14424.0
+157,Washington,Arizona,88896.0
+158,Washington,Massachusetts,28201.0
+159,Arkansas,Montana,0.0
+160,Arkansas,Florida,3289.0
+161,Arkansas,Washington,0.0
+162,Arkansas,Arkansas,45.0
+163,Arkansas,South Dakota,0.0
+164,Arkansas,Mississippi,154.0
+165,Arkansas,Kansas,0.0
+166,Arkansas,Virginia,2042.0
+167,Arkansas,Georgia,27269.0
+168,Arkansas,Kentucky,0.0
+169,Arkansas,Rhode Island,0.0
+170,Arkansas,Oklahoma,0.0
+171,Arkansas,Louisiana,27.0
+172,Arkansas,Minnesota,707.0
+173,Arkansas,U.S. Pacific Trust Territories and Possessions,0.0
+174,Arkansas,Michigan,0.0
+175,Arkansas,Pennsylvania,0.0
+176,Arkansas,Nebraska,0.0
+177,Arkansas,Wyoming,0.0
+178,Arkansas,Oregon,0.0
+179,Arkansas,Iowa,0.0
+180,Arkansas,South Carolina,0.0
+181,Arkansas,Vermont,0.0
+182,Arkansas,Maryland,0.0
+183,Arkansas,Connecticut,0.0
+184,Arkansas,North Carolina,15177.0
+185,Arkansas,New Mexico,0.0
+186,Arkansas,U.S. Virgin Islands,0.0
+187,Arkansas,Texas,58168.0
+188,Arkansas,New Jersey,0.0
+189,Arkansas,New Hampshire,0.0
+190,Arkansas,Alaska,0.0
+191,Arkansas,North Dakota,0.0
+192,Arkansas,Maine,0.0
+193,Arkansas,Colorado,12853.0
+194,Arkansas,California,0.0
+195,Arkansas,Missouri,3658.0
+196,Arkansas,Nevada,3125.0
+197,Arkansas,Delaware,0.0
+198,Arkansas,Wisconsin,0.0
+199,Arkansas,New York,1486.0
+200,Arkansas,Puerto Rico,0.0
+201,Arkansas,Ohio,0.0
+202,Arkansas,Alabama,0.0
+203,Arkansas,Utah,0.0
+204,Arkansas,Hawaii,0.0
+205,Arkansas,Illinois,12500.0
+206,Arkansas,Indiana,0.0
+207,Arkansas,Idaho,0.0
+208,Arkansas,West Virginia,0.0
+209,Arkansas,Tennessee,970.0
+210,Arkansas,Arizona,115.0
+211,Arkansas,Massachusetts,0.0
+212,South Dakota,Montana,0.0
+213,South Dakota,Florida,0.0
+214,South Dakota,Washington,0.0
+215,South Dakota,Arkansas,0.0
+216,South Dakota,South Dakota,0.0
+217,South Dakota,Mississippi,0.0
+218,South Dakota,Kansas,0.0
+219,South Dakota,Virginia,184.0
+220,South Dakota,Georgia,2382.0
+221,South Dakota,Kentucky,0.0
+222,South Dakota,Rhode Island,0.0
+223,South Dakota,Oklahoma,56.0
+224,South Dakota,Louisiana,0.0
+225,South Dakota,Minnesota,15179.0
+226,South Dakota,U.S. Pacific Trust Territories and Possessions,0.0
+227,South Dakota,Michigan,58.0
+228,South Dakota,Pennsylvania,0.0
+229,South Dakota,Nebraska,0.0
+230,South Dakota,Wyoming,0.0
+231,South Dakota,Oregon,0.0
+232,South Dakota,Iowa,37.0
+233,South Dakota,South Carolina,0.0
+234,South Dakota,Vermont,0.0
+235,South Dakota,Maryland,0.0
+236,South Dakota,Connecticut,0.0
+237,South Dakota,North Carolina,5530.0
+238,South Dakota,New Mexico,0.0
+239,South Dakota,U.S. Virgin Islands,0.0
+240,South Dakota,Texas,9877.0
+241,South Dakota,New Jersey,261.0
+242,South Dakota,New Hampshire,0.0
+243,South Dakota,Alaska,0.0
+244,South Dakota,North Dakota,0.0
+245,South Dakota,Maine,0.0
+246,South Dakota,Colorado,23652.0
+247,South Dakota,California,141.0
+248,South Dakota,Missouri,261.0
+249,South Dakota,Nevada,2896.0
+250,South Dakota,Delaware,0.0
+251,South Dakota,Wisconsin,0.0
+252,South Dakota,New York,27.0
+253,South Dakota,Puerto Rico,0.0
+254,South Dakota,Ohio,0.0
+255,South Dakota,Alabama,0.0
+256,South Dakota,Utah,1572.0
+257,South Dakota,Hawaii,0.0
+258,South Dakota,Illinois,15030.0
+259,South Dakota,Indiana,119.0
+260,South Dakota,Idaho,0.0
+261,South Dakota,West Virginia,0.0
+262,South Dakota,Tennessee,0.0
+263,South Dakota,Arizona,7934.0
+264,South Dakota,Massachusetts,0.0
+265,Mississippi,Montana,0.0
+266,Mississippi,Florida,3329.0
+267,Mississippi,Washington,0.0
+268,Mississippi,Arkansas,0.0
+269,Mississippi,South Dakota,0.0
+270,Mississippi,Mississippi,32.0
+271,Mississippi,Kansas,0.0
+272,Mississippi,Virginia,1083.0
+273,Mississippi,Georgia,33438.0
+274,Mississippi,Kentucky,0.0
+275,Mississippi,Rhode Island,0.0
+276,Mississippi,Oklahoma,0.0
+277,Mississippi,Louisiana,201.0
+278,Mississippi,Minnesota,342.0
+279,Mississippi,U.S. Pacific Trust Territories and Possessions,0.0
+280,Mississippi,Michigan,594.0
+281,Mississippi,Pennsylvania,224.0
+282,Mississippi,Nebraska,0.0
+283,Mississippi,Wyoming,0.0
+284,Mississippi,Oregon,0.0
+285,Mississippi,Iowa,0.0
+286,Mississippi,South Carolina,427.0
+287,Mississippi,Vermont,0.0
+288,Mississippi,Maryland,2274.0
+289,Mississippi,Connecticut,0.0
+290,Mississippi,North Carolina,11287.0
+291,Mississippi,New Mexico,0.0
+292,Mississippi,U.S. Virgin Islands,0.0
+293,Mississippi,Texas,31401.0
+294,Mississippi,New Jersey,0.0
+295,Mississippi,New Hampshire,0.0
+296,Mississippi,Alaska,0.0
+297,Mississippi,North Dakota,0.0
+298,Mississippi,Maine,0.0
+299,Mississippi,Colorado,0.0
+300,Mississippi,California,0.0
+301,Mississippi,Missouri,0.0
+302,Mississippi,Nevada,0.0
+303,Mississippi,Delaware,0.0
+304,Mississippi,Wisconsin,276.0
+305,Mississippi,New York,0.0
+306,Mississippi,Puerto Rico,0.0
+307,Mississippi,Ohio,137.0
+308,Mississippi,Alabama,0.0
+309,Mississippi,Utah,0.0
+310,Mississippi,Hawaii,0.0
+311,Mississippi,Illinois,246.0
+312,Mississippi,Indiana,252.0
+313,Mississippi,Idaho,0.0
+314,Mississippi,West Virginia,0.0
+315,Mississippi,Tennessee,1573.0
+316,Mississippi,Arizona,0.0
+317,Mississippi,Massachusetts,0.0
+318,Kansas,Montana,0.0
+319,Kansas,Florida,192.0
+320,Kansas,Washington,1764.0
+321,Kansas,Arkansas,0.0
+322,Kansas,South Dakota,0.0
+323,Kansas,Mississippi,0.0
+324,Kansas,Kansas,0.0
+325,Kansas,Virginia,136.0
+326,Kansas,Georgia,7015.0
+327,Kansas,Kentucky,0.0
+328,Kansas,Rhode Island,0.0
+329,Kansas,Oklahoma,328.0
+330,Kansas,Louisiana,255.0
+331,Kansas,Minnesota,3582.0
+332,Kansas,U.S. Pacific Trust Territories and Possessions,0.0
+333,Kansas,Michigan,0.0
+334,Kansas,Pennsylvania,0.0
+335,Kansas,Nebraska,49.0
+336,Kansas,Wyoming,0.0
+337,Kansas,Oregon,0.0
+338,Kansas,Iowa,33.0
+339,Kansas,South Carolina,170.0
+340,Kansas,Vermont,0.0
+341,Kansas,Maryland,0.0
+342,Kansas,Connecticut,0.0
+343,Kansas,North Carolina,167.0
+344,Kansas,New Mexico,0.0
+345,Kansas,U.S. Virgin Islands,0.0
+346,Kansas,Texas,25552.0
+347,Kansas,New Jersey,0.0
+348,Kansas,New Hampshire,0.0
+349,Kansas,Alaska,0.0
+350,Kansas,North Dakota,0.0
+351,Kansas,Maine,0.0
+352,Kansas,Colorado,14025.0
+353,Kansas,California,0.0
+354,Kansas,Missouri,3203.0
+355,Kansas,Nevada,2707.0
+356,Kansas,Delaware,0.0
+357,Kansas,Wisconsin,0.0
+358,Kansas,New York,0.0
+359,Kansas,Puerto Rico,0.0
+360,Kansas,Ohio,0.0
+361,Kansas,Alabama,0.0
+362,Kansas,Utah,0.0
+363,Kansas,Hawaii,0.0
+364,Kansas,Illinois,10206.0
+365,Kansas,Indiana,0.0
+366,Kansas,Idaho,0.0
+367,Kansas,West Virginia,0.0
+368,Kansas,Tennessee,0.0
+369,Kansas,Arizona,1476.0
+370,Kansas,Massachusetts,0.0
+371,Virginia,Montana,478.0
+372,Virginia,Florida,172308.0
+373,Virginia,Washington,23111.0
+374,Virginia,Arkansas,1883.0
+375,Virginia,South Dakota,184.0
+376,Virginia,Mississippi,1226.0
+377,Virginia,Kansas,0.0
+378,Virginia,Virginia,45618.0
+379,Virginia,Georgia,158117.0
+380,Virginia,Kentucky,17985.0
+381,Virginia,Rhode Island,9433.0
+382,Virginia,Oklahoma,1893.0
+383,Virginia,Louisiana,5860.0
+384,Virginia,Minnesota,26317.0
+385,Virginia,U.S. Pacific Trust Territories and Possessions,0.0
+386,Virginia,Michigan,43556.0
+387,Virginia,Pennsylvania,47888.0
+388,Virginia,Nebraska,2852.0
+389,Virginia,Wyoming,4.0
+390,Virginia,Oregon,8118.0
+391,Virginia,Iowa,3060.0
+392,Virginia,South Carolina,31844.0
+393,Virginia,Vermont,7451.0
+394,Virginia,Maryland,12277.0
+395,Virginia,Connecticut,15366.0
+396,Virginia,North Carolina,135957.0
+397,Virginia,New Mexico,161.0
+398,Virginia,U.S. Virgin Islands,1174.0
+399,Virginia,Texas,123951.0
+400,Virginia,New Jersey,23531.0
+401,Virginia,New Hampshire,6185.0
+402,Virginia,Alaska,0.0
+403,Virginia,North Dakota,186.0
+404,Virginia,Maine,21128.0
+405,Virginia,Colorado,65310.0
+406,Virginia,California,82449.0
+407,Virginia,Missouri,19028.0
+408,Virginia,Nevada,13908.0
+409,Virginia,Delaware,0.0
+410,Virginia,Wisconsin,5380.0
+411,Virginia,New York,95881.0
+412,Virginia,Puerto Rico,6861.0
+413,Virginia,Ohio,33250.0
+414,Virginia,Alabama,7980.0
+415,Virginia,Utah,7521.0
+416,Virginia,Hawaii,1461.0
+417,Virginia,Illinois,111983.0
+418,Virginia,Indiana,10631.0
+419,Virginia,Idaho,0.0
+420,Virginia,West Virginia,2229.0
+421,Virginia,Tennessee,35704.0
+422,Virginia,Arizona,13889.0
+423,Virginia,Massachusetts,63791.0
+424,Georgia,Montana,1918.0
+425,Georgia,Florida,599123.0
+426,Georgia,Washington,42093.0
+427,Georgia,Arkansas,26973.0
+428,Georgia,South Dakota,2275.0
+429,Georgia,Mississippi,32253.0
+430,Georgia,Kansas,7421.0
+431,Georgia,Virginia,158581.0
+432,Georgia,Georgia,110494.0
+433,Georgia,Kentucky,71211.0
+434,Georgia,Rhode Island,13017.0
+435,Georgia,Oklahoma,26370.0
+436,Georgia,Louisiana,53655.0
+437,Georgia,Minnesota,50482.0
+438,Georgia,U.S. Pacific Trust Territories and Possessions,0.0
+439,Georgia,Michigan,77272.0
+440,Georgia,Pennsylvania,104697.0
+441,Georgia,Nebraska,17517.0
+442,Georgia,Wyoming,4628.0
+443,Georgia,Oregon,16646.0
+444,Georgia,Iowa,11999.0
+445,Georgia,South Carolina,98844.0
+446,Georgia,Vermont,1987.0
+447,Georgia,Maryland,65688.0
+448,Georgia,Connecticut,24737.0
+449,Georgia,North Carolina,162061.0
+450,Georgia,New Mexico,12399.0
+451,Georgia,U.S. Virgin Islands,9177.0
+452,Georgia,Texas,256981.0
+453,Georgia,New Jersey,67967.0
+454,Georgia,New Hampshire,0.0
+455,Georgia,Alaska,3949.0
+456,Georgia,North Dakota,0.0
+457,Georgia,Maine,7456.0
+458,Georgia,Colorado,73635.0
+459,Georgia,California,171733.0
+460,Georgia,Missouri,69899.0
+461,Georgia,Nevada,65711.0
+462,Georgia,Delaware,0.0
+463,Georgia,Wisconsin,41258.0
+464,Georgia,New York,169844.0
+465,Georgia,Puerto Rico,17611.0
+466,Georgia,Ohio,79108.0
+467,Georgia,Alabama,59762.0
+468,Georgia,Utah,49591.0
+469,Georgia,Hawaii,6344.0
+470,Georgia,Illinois,110503.0
+471,Georgia,Indiana,47757.0
+472,Georgia,Idaho,2520.0
+473,Georgia,West Virginia,4388.0
+474,Georgia,Tennessee,120070.0
+475,Georgia,Arizona,48704.0
+476,Georgia,Massachusetts,62866.0
+477,Kentucky,Montana,0.0
+478,Kentucky,Florida,84177.0
+479,Kentucky,Washington,6511.0
+480,Kentucky,Arkansas,0.0
+481,Kentucky,South Dakota,0.0
+482,Kentucky,Mississippi,0.0
+483,Kentucky,Kansas,0.0
+484,Kentucky,Virginia,18042.0
+485,Kentucky,Georgia,72211.0
+486,Kentucky,Kentucky,62.0
+487,Kentucky,Rhode Island,0.0
+488,Kentucky,Oklahoma,69.0
+489,Kentucky,Louisiana,943.0
+490,Kentucky,Minnesota,13651.0
+491,Kentucky,U.S. Pacific Trust Territories and Possessions,0.0
+492,Kentucky,Michigan,14694.0
+493,Kentucky,Pennsylvania,10333.0
+494,Kentucky,Nebraska,0.0
+495,Kentucky,Wyoming,0.0
+496,Kentucky,Oregon,0.0
+497,Kentucky,Iowa,0.0
+498,Kentucky,South Carolina,2211.0
+499,Kentucky,Vermont,0.0
+500,Kentucky,Maryland,14359.0
+501,Kentucky,Connecticut,0.0
+502,Kentucky,North Carolina,32121.0
+503,Kentucky,New Mexico,0.0
+504,Kentucky,U.S. Virgin Islands,0.0
+505,Kentucky,Texas,47079.0
+506,Kentucky,New Jersey,6956.0
+507,Kentucky,New Hampshire,0.0
+508,Kentucky,Alaska,0.0
+509,Kentucky,North Dakota,0.0
+510,Kentucky,Maine,80.0
+511,Kentucky,Colorado,30207.0
+512,Kentucky,California,5491.0
+513,Kentucky,Missouri,382.0
+514,Kentucky,Nevada,20477.0
+515,Kentucky,Delaware,0.0
+516,Kentucky,Wisconsin,58.0
+517,Kentucky,New York,13416.0
+518,Kentucky,Puerto Rico,0.0
+519,Kentucky,Ohio,0.0
+520,Kentucky,Alabama,0.0
+521,Kentucky,Utah,6205.0
+522,Kentucky,Hawaii,0.0
+523,Kentucky,Illinois,52844.0
+524,Kentucky,Indiana,149.0
+525,Kentucky,Idaho,0.0
+526,Kentucky,West Virginia,0.0
+527,Kentucky,Tennessee,753.0
+528,Kentucky,Arizona,6489.0
+529,Kentucky,Massachusetts,5030.0
+530,Rhode Island,Montana,0.0
+531,Rhode Island,Florida,26721.0
+532,Rhode Island,Washington,0.0
+533,Rhode Island,Arkansas,0.0
+534,Rhode Island,South Dakota,0.0
+535,Rhode Island,Mississippi,0.0
+536,Rhode Island,Kansas,0.0
+537,Rhode Island,Virginia,8957.0
+538,Rhode Island,Georgia,12490.0
+539,Rhode Island,Kentucky,0.0
+540,Rhode Island,Rhode Island,4191.0
+541,Rhode Island,Oklahoma,0.0
+542,Rhode Island,Louisiana,149.0
+543,Rhode Island,Minnesota,456.0
+544,Rhode Island,U.S. Pacific Trust Territories and Possessions,0.0
+545,Rhode Island,Michigan,6215.0
+546,Rhode Island,Pennsylvania,8060.0
+547,Rhode Island,Nebraska,0.0
+548,Rhode Island,Wyoming,0.0
+549,Rhode Island,Oregon,0.0
+550,Rhode Island,Iowa,0.0
+551,Rhode Island,South Carolina,54.0
+552,Rhode Island,Vermont,0.0
+553,Rhode Island,Maryland,16014.0
+554,Rhode Island,Connecticut,0.0
+555,Rhode Island,North Carolina,11103.0
+556,Rhode Island,New Mexico,0.0
+557,Rhode Island,U.S. Virgin Islands,0.0
+558,Rhode Island,Texas,0.0
+559,Rhode Island,New Jersey,1648.0
+560,Rhode Island,New Hampshire,2.0
+561,Rhode Island,Alaska,0.0
+562,Rhode Island,North Dakota,0.0
+563,Rhode Island,Maine,0.0
+564,Rhode Island,Colorado,0.0
+565,Rhode Island,California,7.0
+566,Rhode Island,Missouri,0.0
+567,Rhode Island,Nevada,0.0
+568,Rhode Island,Delaware,0.0
+569,Rhode Island,Wisconsin,0.0
+570,Rhode Island,New York,208.0
+571,Rhode Island,Puerto Rico,0.0
+572,Rhode Island,Ohio,0.0
+573,Rhode Island,Alabama,0.0
+574,Rhode Island,Utah,0.0
+575,Rhode Island,Hawaii,0.0
+576,Rhode Island,Illinois,15721.0
+577,Rhode Island,Indiana,46.0
+578,Rhode Island,Idaho,0.0
+579,Rhode Island,West Virginia,0.0
+580,Rhode Island,Tennessee,0.0
+581,Rhode Island,Arizona,0.0
+582,Rhode Island,Massachusetts,357.0
+583,Oklahoma,Montana,0.0
+584,Oklahoma,Florida,5377.0
+585,Oklahoma,Washington,3235.0
+586,Oklahoma,Arkansas,0.0
+587,Oklahoma,South Dakota,0.0
+588,Oklahoma,Mississippi,0.0
+589,Oklahoma,Kansas,140.0
+590,Oklahoma,Virginia,1786.0
+591,Oklahoma,Georgia,25528.0
+592,Oklahoma,Kentucky,0.0
+593,Oklahoma,Rhode Island,0.0
+594,Oklahoma,Oklahoma,0.0
+595,Oklahoma,Louisiana,0.0
+596,Oklahoma,Minnesota,3125.0
+597,Oklahoma,U.S. Pacific Trust Territories and Possessions,0.0
+598,Oklahoma,Michigan,0.0
+599,Oklahoma,Pennsylvania,0.0
+600,Oklahoma,Nebraska,453.0
+601,Oklahoma,Wyoming,0.0
+602,Oklahoma,Oregon,0.0
+603,Oklahoma,Iowa,0.0
+604,Oklahoma,South Carolina,0.0
+605,Oklahoma,Vermont,0.0
+606,Oklahoma,Maryland,0.0
+607,Oklahoma,Connecticut,0.0
+608,Oklahoma,North Carolina,14718.0
+609,Oklahoma,New Mexico,0.0
+610,Oklahoma,U.S. Virgin Islands,0.0
+611,Oklahoma,Texas,97988.0
+612,Oklahoma,New Jersey,0.0
+613,Oklahoma,New Hampshire,0.0
+614,Oklahoma,Alaska,0.0
+615,Oklahoma,North Dakota,0.0
+616,Oklahoma,Maine,0.0
+617,Oklahoma,Colorado,32983.0
+618,Oklahoma,California,6383.0
+619,Oklahoma,Missouri,8217.0
+620,Oklahoma,Nevada,11595.0
+621,Oklahoma,Delaware,0.0
+622,Oklahoma,Wisconsin,0.0
+623,Oklahoma,New York,0.0
+624,Oklahoma,Puerto Rico,0.0
+625,Oklahoma,Ohio,155.0
+626,Oklahoma,Alabama,139.0
+627,Oklahoma,Utah,7294.0
+628,Oklahoma,Hawaii,0.0
+629,Oklahoma,Illinois,21584.0
+630,Oklahoma,Indiana,0.0
+631,Oklahoma,Idaho,180.0
+632,Oklahoma,West Virginia,173.0
+633,Oklahoma,Tennessee,771.0
+634,Oklahoma,Arizona,17749.0
+635,Oklahoma,Massachusetts,0.0
+636,Louisiana,Montana,0.0
+637,Louisiana,Florida,13109.0
+638,Louisiana,Washington,1685.0
+639,Louisiana,Arkansas,0.0
+640,Louisiana,South Dakota,0.0
+641,Louisiana,Mississippi,196.0
+642,Louisiana,Kansas,0.0
+643,Louisiana,Virginia,4736.0
+644,Louisiana,Georgia,51259.0
+645,Louisiana,Kentucky,785.0
+646,Louisiana,Rhode Island,0.0
+647,Louisiana,Oklahoma,0.0
+648,Louisiana,Louisiana,275.0
+649,Louisiana,Minnesota,983.0
+650,Louisiana,U.S. Pacific Trust Territories and Possessions,0.0
+651,Louisiana,Michigan,2306.0
+652,Louisiana,Pennsylvania,2789.0
+653,Louisiana,Nebraska,0.0
+654,Louisiana,Wyoming,0.0
+655,Louisiana,Oregon,0.0
+656,Louisiana,Iowa,0.0
+657,Louisiana,South Carolina,0.0
+658,Louisiana,Vermont,0.0
+659,Louisiana,Maryland,4824.0
+660,Louisiana,Connecticut,102.0
+661,Louisiana,North Carolina,19075.0
+662,Louisiana,New Mexico,0.0
+663,Louisiana,U.S. Virgin Islands,0.0
+664,Louisiana,Texas,114144.0
+665,Louisiana,New Jersey,4102.0
+666,Louisiana,New Hampshire,0.0
+667,Louisiana,Alaska,0.0
+668,Louisiana,North Dakota,0.0
+669,Louisiana,Maine,0.0
+670,Louisiana,Colorado,7505.0
+671,Louisiana,California,2748.0
+672,Louisiana,Missouri,0.0
+673,Louisiana,Nevada,4030.0
+674,Louisiana,Delaware,0.0
+675,Louisiana,Wisconsin,0.0
+676,Louisiana,New York,2802.0
+677,Louisiana,Puerto Rico,114.0
+678,Louisiana,Ohio,766.0
+679,Louisiana,Alabama,160.0
+680,Louisiana,Utah,1324.0
+681,Louisiana,Hawaii,0.0
+682,Louisiana,Illinois,9830.0
+683,Louisiana,Indiana,0.0
+684,Louisiana,Idaho,0.0
+685,Louisiana,West Virginia,0.0
+686,Louisiana,Tennessee,0.0
+687,Louisiana,Arizona,450.0
+688,Louisiana,Massachusetts,1396.0
+689,Minnesota,Montana,26092.0
+690,Minnesota,Florida,63642.0
+691,Minnesota,Washington,49066.0
+692,Minnesota,Arkansas,569.0
+693,Minnesota,South Dakota,15196.0
+694,Minnesota,Mississippi,410.0
+695,Minnesota,Kansas,3333.0
+696,Minnesota,Virginia,26279.0
+697,Minnesota,Georgia,50586.0
+698,Minnesota,Kentucky,14111.0
+699,Minnesota,Rhode Island,541.0
+700,Minnesota,Oklahoma,3142.0
+701,Minnesota,Louisiana,1161.0
+702,Minnesota,Minnesota,37070.0
+703,Minnesota,U.S. Pacific Trust Territories and Possessions,0.0
+704,Minnesota,Michigan,42624.0
+705,Minnesota,Pennsylvania,24516.0
+706,Minnesota,Nebraska,10043.0
+707,Minnesota,Wyoming,3006.0
+708,Minnesota,Oregon,21228.0
+709,Minnesota,Iowa,8936.0
+710,Minnesota,South Carolina,1126.0
+711,Minnesota,Vermont,0.0
+712,Minnesota,Maryland,14472.0
+713,Minnesota,Connecticut,10063.0
+714,Minnesota,North Carolina,31565.0
+715,Minnesota,New Mexico,735.0
+716,Minnesota,U.S. Virgin Islands,0.0
+717,Minnesota,Texas,69376.0
+718,Minnesota,New Jersey,14213.0
+719,Minnesota,New Hampshire,0.0
+720,Minnesota,Alaska,11344.0
+721,Minnesota,North Dakota,29514.0
+722,Minnesota,Maine,681.0
+723,Minnesota,Colorado,66237.0
+724,Minnesota,California,91636.0
+725,Minnesota,Missouri,21627.0
+726,Minnesota,Nevada,43164.0
+727,Minnesota,Delaware,0.0
+728,Minnesota,Wisconsin,37537.0
+729,Minnesota,New York,28681.0
+730,Minnesota,Puerto Rico,501.0
+731,Minnesota,Ohio,19025.0
+732,Minnesota,Alabama,0.0
+733,Minnesota,Utah,23123.0
+734,Minnesota,Hawaii,886.0
+735,Minnesota,Illinois,83522.0
+736,Minnesota,Indiana,16612.0
+737,Minnesota,Idaho,6216.0
+738,Minnesota,West Virginia,0.0
+739,Minnesota,Tennessee,23052.0
+740,Minnesota,Arizona,45288.0
+741,Minnesota,Massachusetts,28852.0
+742,U.S. Pacific Trust Territories and Possessions,Montana,0.0
+743,U.S. Pacific Trust Territories and Possessions,Florida,0.0
+744,U.S. Pacific Trust Territories and Possessions,Washington,0.0
+745,U.S. Pacific Trust Territories and Possessions,Arkansas,0.0
+746,U.S. Pacific Trust Territories and Possessions,South Dakota,0.0
+747,U.S. Pacific Trust Territories and Possessions,Mississippi,0.0
+748,U.S. Pacific Trust Territories and Possessions,Kansas,0.0
+749,U.S. Pacific Trust Territories and Possessions,Virginia,0.0
+750,U.S. Pacific Trust Territories and Possessions,Georgia,0.0
+751,U.S. Pacific Trust Territories and Possessions,Kentucky,0.0
+752,U.S. Pacific Trust Territories and Possessions,Rhode Island,0.0
+753,U.S. Pacific Trust Territories and Possessions,Oklahoma,0.0
+754,U.S. Pacific Trust Territories and Possessions,Louisiana,0.0
+755,U.S. Pacific Trust Territories and Possessions,Minnesota,0.0
+756,U.S. Pacific Trust Territories and Possessions,U.S. Pacific Trust Territories and Possessions,7980.0
+757,U.S. Pacific Trust Territories and Possessions,Michigan,0.0
+758,U.S. Pacific Trust Territories and Possessions,Pennsylvania,0.0
+759,U.S. Pacific Trust Territories and Possessions,Nebraska,0.0
+760,U.S. Pacific Trust Territories and Possessions,Wyoming,0.0
+761,U.S. Pacific Trust Territories and Possessions,Oregon,0.0
+762,U.S. Pacific Trust Territories and Possessions,Iowa,0.0
+763,U.S. Pacific Trust Territories and Possessions,South Carolina,0.0
+764,U.S. Pacific Trust Territories and Possessions,Vermont,0.0
+765,U.S. Pacific Trust Territories and Possessions,Maryland,0.0
+766,U.S. Pacific Trust Territories and Possessions,Connecticut,0.0
+767,U.S. Pacific Trust Territories and Possessions,North Carolina,0.0
+768,U.S. Pacific Trust Territories and Possessions,New Mexico,0.0
+769,U.S. Pacific Trust Territories and Possessions,U.S. Virgin Islands,0.0
+770,U.S. Pacific Trust Territories and Possessions,Texas,0.0
+771,U.S. Pacific Trust Territories and Possessions,New Jersey,0.0
+772,U.S. Pacific Trust Territories and Possessions,New Hampshire,0.0
+773,U.S. Pacific Trust Territories and Possessions,Alaska,0.0
+774,U.S. Pacific Trust Territories and Possessions,North Dakota,0.0
+775,U.S. Pacific Trust Territories and Possessions,Maine,0.0
+776,U.S. Pacific Trust Territories and Possessions,Colorado,0.0
+777,U.S. Pacific Trust Territories and Possessions,California,0.0
+778,U.S. Pacific Trust Territories and Possessions,Missouri,0.0
+779,U.S. Pacific Trust Territories and Possessions,Nevada,0.0
+780,U.S. Pacific Trust Territories and Possessions,Delaware,0.0
+781,U.S. Pacific Trust Territories and Possessions,Wisconsin,0.0
+782,U.S. Pacific Trust Territories and Possessions,New York,0.0
+783,U.S. Pacific Trust Territories and Possessions,Puerto Rico,0.0
+784,U.S. Pacific Trust Territories and Possessions,Ohio,0.0
+785,U.S. Pacific Trust Territories and Possessions,Alabama,0.0
+786,U.S. Pacific Trust Territories and Possessions,Utah,0.0
+787,U.S. Pacific Trust Territories and Possessions,Hawaii,6604.0
+788,U.S. Pacific Trust Territories and Possessions,Illinois,0.0
+789,U.S. Pacific Trust Territories and Possessions,Indiana,0.0
+790,U.S. Pacific Trust Territories and Possessions,Idaho,0.0
+791,U.S. Pacific Trust Territories and Possessions,West Virginia,0.0
+792,U.S. Pacific Trust Territories and Possessions,Tennessee,0.0
+793,U.S. Pacific Trust Territories and Possessions,Arizona,0.0
+794,U.S. Pacific Trust Territories and Possessions,Massachusetts,0.0
+795,Michigan,Montana,544.0
+796,Michigan,Florida,137325.0
+797,Michigan,Washington,24457.0
+798,Michigan,Arkansas,0.0
+799,Michigan,South Dakota,71.0
+800,Michigan,Mississippi,594.0
+801,Michigan,Kansas,0.0
+802,Michigan,Virginia,41238.0
+803,Michigan,Georgia,78434.0
+804,Michigan,Kentucky,14914.0
+805,Michigan,Rhode Island,5776.0
+806,Michigan,Oklahoma,0.0
+807,Michigan,Louisiana,2368.0
+808,Michigan,Minnesota,44098.0
+809,Michigan,U.S. Pacific Trust Territories and Possessions,0.0
+810,Michigan,Michigan,77918.0
+811,Michigan,Pennsylvania,36667.0
+812,Michigan,Nebraska,4511.0
+813,Michigan,Wyoming,167.0
+814,Michigan,Oregon,2743.0
+815,Michigan,Iowa,7324.0
+816,Michigan,South Carolina,12215.0
+817,Michigan,Vermont,5279.0
+818,Michigan,Maryland,20273.0
+819,Michigan,Connecticut,7304.0
+820,Michigan,North Carolina,51254.0
+821,Michigan,New Mexico,0.0
+822,Michigan,U.S. Virgin Islands,0.0
+823,Michigan,Texas,86025.0
+824,Michigan,New Jersey,18160.0
+825,Michigan,New Hampshire,0.0
+826,Michigan,Alaska,668.0
+827,Michigan,North Dakota,0.0
+828,Michigan,Maine,5597.0
+829,Michigan,Colorado,54623.0
+830,Michigan,California,63844.0
+831,Michigan,Missouri,18739.0
+832,Michigan,Nevada,51372.0
+833,Michigan,Delaware,0.0
+834,Michigan,Wisconsin,30834.0
+835,Michigan,New York,76825.0
+836,Michigan,Puerto Rico,0.0
+837,Michigan,Ohio,17923.0
+838,Michigan,Alabama,2506.0
+839,Michigan,Utah,20741.0
+840,Michigan,Hawaii,0.0
+841,Michigan,Illinois,106557.0
+842,Michigan,Indiana,16043.0
+843,Michigan,Idaho,0.0
+844,Michigan,West Virginia,160.0
+845,Michigan,Tennessee,33554.0
+846,Michigan,Arizona,27819.0
+847,Michigan,Massachusetts,27606.0
+848,Pennsylvania,Montana,870.0
+849,Pennsylvania,Florida,240970.0
+850,Pennsylvania,Washington,15769.0
+851,Pennsylvania,Arkansas,0.0
+852,Pennsylvania,South Dakota,0.0
+853,Pennsylvania,Mississippi,224.0
+854,Pennsylvania,Kansas,0.0
+855,Pennsylvania,Virginia,49313.0
+856,Pennsylvania,Georgia,104660.0
+857,Pennsylvania,Kentucky,10450.0
+858,Pennsylvania,Rhode Island,7952.0
+859,Pennsylvania,Oklahoma,0.0
+860,Pennsylvania,Louisiana,3399.0
+861,Pennsylvania,Minnesota,22714.0
+862,Pennsylvania,U.S. Pacific Trust Territories and Possessions,0.0
+863,Pennsylvania,Michigan,36376.0
+864,Pennsylvania,Pennsylvania,37755.0
+865,Pennsylvania,Nebraska,0.0
+866,Pennsylvania,Wyoming,0.0
+867,Pennsylvania,Oregon,0.0
+868,Pennsylvania,Iowa,0.0
+869,Pennsylvania,South Carolina,33052.0
+870,Pennsylvania,Vermont,5368.0
+871,Pennsylvania,Maryland,10794.0
+872,Pennsylvania,Connecticut,10505.0
+873,Pennsylvania,North Carolina,101254.0
+874,Pennsylvania,New Mexico,0.0
+875,Pennsylvania,U.S. Virgin Islands,0.0
+876,Pennsylvania,Texas,86224.0
+877,Pennsylvania,New Jersey,5138.0
+878,Pennsylvania,New Hampshire,5535.0
+879,Pennsylvania,Alaska,0.0
+880,Pennsylvania,North Dakota,0.0
+881,Pennsylvania,Maine,12948.0
+882,Pennsylvania,Colorado,50742.0
+883,Pennsylvania,California,49203.0
+884,Pennsylvania,Missouri,17413.0
+885,Pennsylvania,Nevada,29801.0
+886,Pennsylvania,Delaware,0.0
+887,Pennsylvania,Wisconsin,6567.0
+888,Pennsylvania,New York,42352.0
+889,Pennsylvania,Puerto Rico,19459.0
+890,Pennsylvania,Ohio,14311.0
+891,Pennsylvania,Alabama,2974.0
+892,Pennsylvania,Utah,6324.0
+893,Pennsylvania,Hawaii,0.0
+894,Pennsylvania,Illinois,107351.0
+895,Pennsylvania,Indiana,7237.0
+896,Pennsylvania,Idaho,0.0
+897,Pennsylvania,West Virginia,969.0
+898,Pennsylvania,Tennessee,33158.0
+899,Pennsylvania,Arizona,29943.0
+900,Pennsylvania,Massachusetts,32533.0
+901,Nebraska,Montana,0.0
+902,Nebraska,Florida,2083.0
+903,Nebraska,Washington,4310.0
+904,Nebraska,Arkansas,0.0
+905,Nebraska,South Dakota,0.0
+906,Nebraska,Mississippi,0.0
+907,Nebraska,Kansas,0.0
+908,Nebraska,Virginia,2431.0
+909,Nebraska,Georgia,18717.0
+910,Nebraska,Kentucky,0.0
+911,Nebraska,Rhode Island,0.0
+912,Nebraska,Oklahoma,395.0
+913,Nebraska,Louisiana,0.0
+914,Nebraska,Minnesota,10480.0
+915,Nebraska,U.S. Pacific Trust Territories and Possessions,0.0
+916,Nebraska,Michigan,4359.0
+917,Nebraska,Pennsylvania,0.0
+918,Nebraska,Nebraska,3.0
+919,Nebraska,Wyoming,0.0
+920,Nebraska,Oregon,160.0
+921,Nebraska,Iowa,0.0
+922,Nebraska,South Carolina,105.0
+923,Nebraska,Vermont,0.0
+924,Nebraska,Maryland,0.0
+925,Nebraska,Connecticut,0.0
+926,Nebraska,North Carolina,6905.0
+927,Nebraska,New Mexico,0.0
+928,Nebraska,U.S. Virgin Islands,0.0
+929,Nebraska,Texas,26091.0
+930,Nebraska,New Jersey,0.0
+931,Nebraska,New Hampshire,0.0
+932,Nebraska,Alaska,0.0
+933,Nebraska,North Dakota,0.0
+934,Nebraska,Maine,0.0
+935,Nebraska,Colorado,36293.0
+936,Nebraska,California,1909.0
+937,Nebraska,Missouri,4724.0
+938,Nebraska,Nevada,11750.0
+939,Nebraska,Delaware,0.0
+940,Nebraska,Wisconsin,0.0
+941,Nebraska,New York,1560.0
+942,Nebraska,Puerto Rico,0.0
+943,Nebraska,Ohio,0.0
+944,Nebraska,Alabama,0.0
+945,Nebraska,Utah,4958.0
+946,Nebraska,Hawaii,0.0
+947,Nebraska,Illinois,33270.0
+948,Nebraska,Indiana,0.0
+949,Nebraska,Idaho,45.0
+950,Nebraska,West Virginia,0.0
+951,Nebraska,Tennessee,321.0
+952,Nebraska,Arizona,15724.0
+953,Nebraska,Massachusetts,0.0
+954,Wyoming,Montana,261.0
+955,Wyoming,Florida,0.0
+956,Wyoming,Washington,719.0
+957,Wyoming,Arkansas,0.0
+958,Wyoming,South Dakota,0.0
+959,Wyoming,Mississippi,0.0
+960,Wyoming,Kansas,0.0
+961,Wyoming,Virginia,0.0
+962,Wyoming,Georgia,4265.0
+963,Wyoming,Kentucky,0.0
+964,Wyoming,Rhode Island,0.0
+965,Wyoming,Oklahoma,66.0
+966,Wyoming,Louisiana,0.0
+967,Wyoming,Minnesota,3300.0
+968,Wyoming,U.S. Pacific Trust Territories and Possessions,0.0
+969,Wyoming,Michigan,88.0
+970,Wyoming,Pennsylvania,56.0
+971,Wyoming,Nebraska,0.0
+972,Wyoming,Wyoming,0.0
+973,Wyoming,Oregon,0.0
+974,Wyoming,Iowa,0.0
+975,Wyoming,South Carolina,0.0
+976,Wyoming,Vermont,0.0
+977,Wyoming,Maryland,0.0
+978,Wyoming,Connecticut,0.0
+979,Wyoming,North Carolina,2961.0
+980,Wyoming,New Mexico,0.0
+981,Wyoming,U.S. Virgin Islands,0.0
+982,Wyoming,Texas,6721.0
+983,Wyoming,New Jersey,284.0
+984,Wyoming,New Hampshire,0.0
+985,Wyoming,Alaska,0.0
+986,Wyoming,North Dakota,0.0
+987,Wyoming,Maine,0.0
+988,Wyoming,Colorado,30616.0
+989,Wyoming,California,1020.0
+990,Wyoming,Missouri,0.0
+991,Wyoming,Nevada,0.0
+992,Wyoming,Delaware,0.0
+993,Wyoming,Wisconsin,0.0
+994,Wyoming,New York,2022.0
+995,Wyoming,Puerto Rico,0.0
+996,Wyoming,Ohio,0.0
+997,Wyoming,Alabama,0.0
+998,Wyoming,Utah,11824.0
+999,Wyoming,Hawaii,0.0
+1000,Wyoming,Illinois,9917.0
+1001,Wyoming,Indiana,0.0
+1002,Wyoming,Idaho,72.0
+1003,Wyoming,West Virginia,0.0
+1004,Wyoming,Tennessee,0.0
+1005,Wyoming,Arizona,1005.0
+1006,Wyoming,Massachusetts,61.0
+1007,Oregon,Montana,2546.0
+1008,Oregon,Florida,4510.0
+1009,Oregon,Washington,91495.0
+1010,Oregon,Arkansas,0.0
+1011,Oregon,South Dakota,0.0
+1012,Oregon,Mississippi,0.0
+1013,Oregon,Kansas,0.0
+1014,Oregon,Virginia,8125.0
+1015,Oregon,Georgia,17354.0
+1016,Oregon,Kentucky,0.0
+1017,Oregon,Rhode Island,0.0
+1018,Oregon,Oklahoma,0.0
+1019,Oregon,Louisiana,0.0
+1020,Oregon,Minnesota,20458.0
+1021,Oregon,U.S. Pacific Trust Territories and Possessions,0.0
+1022,Oregon,Michigan,2263.0
+1023,Oregon,Pennsylvania,163.0
+1024,Oregon,Nebraska,68.0
+1025,Oregon,Wyoming,0.0
+1026,Oregon,Oregon,5879.0
+1027,Oregon,Iowa,0.0
+1028,Oregon,South Carolina,0.0
+1029,Oregon,Vermont,0.0
+1030,Oregon,Maryland,4.0
+1031,Oregon,Connecticut,0.0
+1032,Oregon,North Carolina,3653.0
+1033,Oregon,New Mexico,2064.0
+1034,Oregon,U.S. Virgin Islands,0.0
+1035,Oregon,Texas,41071.0
+1036,Oregon,New Jersey,9349.0
+1037,Oregon,New Hampshire,0.0
+1038,Oregon,Alaska,5063.0
+1039,Oregon,North Dakota,0.0
+1040,Oregon,Maine,0.0
+1041,Oregon,Colorado,65549.0
+1042,Oregon,California,188717.0
+1043,Oregon,Missouri,5805.0
+1044,Oregon,Nevada,46142.0
+1045,Oregon,Delaware,0.0
+1046,Oregon,Wisconsin,0.0
+1047,Oregon,New York,9099.0
+1048,Oregon,Puerto Rico,0.0
+1049,Oregon,Ohio,485.0
+1050,Oregon,Alabama,0.0
+1051,Oregon,Utah,36683.0
+1052,Oregon,Hawaii,14941.0
+1053,Oregon,Illinois,38885.0
+1054,Oregon,Indiana,338.0
+1055,Oregon,Idaho,5743.0
+1056,Oregon,West Virginia,0.0
+1057,Oregon,Tennessee,0.0
+1058,Oregon,Arizona,44570.0
+1059,Oregon,Massachusetts,5717.0
+1060,Iowa,Montana,109.0
+1061,Iowa,Florida,5386.0
+1062,Iowa,Washington,0.0
+1063,Iowa,Arkansas,0.0
+1064,Iowa,South Dakota,109.0
+1065,Iowa,Mississippi,94.0
+1066,Iowa,Kansas,0.0
+1067,Iowa,Virginia,3025.0
+1068,Iowa,Georgia,11774.0
+1069,Iowa,Kentucky,0.0
+1070,Iowa,Rhode Island,0.0
+1071,Iowa,Oklahoma,0.0
+1072,Iowa,Louisiana,0.0
+1073,Iowa,Minnesota,9233.0
+1074,Iowa,U.S. Pacific Trust Territories and Possessions,0.0
+1075,Iowa,Michigan,7155.0
+1076,Iowa,Pennsylvania,0.0
+1077,Iowa,Nebraska,113.0
+1078,Iowa,Wyoming,0.0
+1079,Iowa,Oregon,0.0
+1080,Iowa,Iowa,0.0
+1081,Iowa,South Carolina,0.0
+1082,Iowa,Vermont,0.0
+1083,Iowa,Maryland,158.0
+1084,Iowa,Connecticut,0.0
+1085,Iowa,North Carolina,10153.0
+1086,Iowa,New Mexico,0.0
+1087,Iowa,U.S. Virgin Islands,0.0
+1088,Iowa,Texas,20251.0
+1089,Iowa,New Jersey,0.0
+1090,Iowa,New Hampshire,0.0
+1091,Iowa,Alaska,0.0
+1092,Iowa,North Dakota,0.0
+1093,Iowa,Maine,0.0
+1094,Iowa,Colorado,29918.0
+1095,Iowa,California,236.0
+1096,Iowa,Missouri,3438.0
+1097,Iowa,Nevada,9158.0
+1098,Iowa,Delaware,0.0
+1099,Iowa,Wisconsin,39.0
+1100,Iowa,New York,20.0
+1101,Iowa,Puerto Rico,0.0
+1102,Iowa,Ohio,163.0
+1103,Iowa,Alabama,0.0
+1104,Iowa,Utah,1871.0
+1105,Iowa,Hawaii,0.0
+1106,Iowa,Illinois,30549.0
+1107,Iowa,Indiana,151.0
+1108,Iowa,Idaho,0.0
+1109,Iowa,West Virginia,103.0
+1110,Iowa,Tennessee,2162.0
+1111,Iowa,Arizona,11157.0
+1112,Iowa,Massachusetts,0.0
+1113,South Carolina,Montana,0.0
+1114,South Carolina,Florida,15342.0
+1115,South Carolina,Washington,3388.0
+1116,South Carolina,Arkansas,0.0
+1117,South Carolina,South Dakota,0.0
+1118,South Carolina,Mississippi,352.0
+1119,South Carolina,Kansas,170.0
+1120,South Carolina,Virginia,32786.0
+1121,South Carolina,Georgia,98626.0
+1122,South Carolina,Kentucky,2129.0
+1123,South Carolina,Rhode Island,70.0
+1124,South Carolina,Oklahoma,0.0
+1125,South Carolina,Louisiana,0.0
+1126,South Carolina,Minnesota,1035.0
+1127,South Carolina,U.S. Pacific Trust Territories and Possessions,0.0
+1128,South Carolina,Michigan,11956.0
+1129,South Carolina,Pennsylvania,33546.0
+1130,South Carolina,Nebraska,0.0
+1131,South Carolina,Wyoming,0.0
+1132,South Carolina,Oregon,0.0
+1133,South Carolina,Iowa,0.0
+1134,South Carolina,South Carolina,374.0
+1135,South Carolina,Vermont,0.0
+1136,South Carolina,Maryland,28388.0
+1137,South Carolina,Connecticut,5617.0
+1138,South Carolina,North Carolina,73981.0
+1139,South Carolina,New Mexico,0.0
+1140,South Carolina,U.S. Virgin Islands,0.0
+1141,South Carolina,Texas,39487.0
+1142,South Carolina,New Jersey,24687.0
+1143,South Carolina,New Hampshire,0.0
+1144,South Carolina,Alaska,0.0
+1145,South Carolina,North Dakota,0.0
+1146,South Carolina,Maine,0.0
+1147,South Carolina,Colorado,9611.0
+1148,South Carolina,California,1672.0
+1149,South Carolina,Missouri,2098.0
+1150,South Carolina,Nevada,0.0
+1151,South Carolina,Delaware,0.0
+1152,South Carolina,Wisconsin,21.0
+1153,South Carolina,New York,30313.0
+1154,South Carolina,Puerto Rico,0.0
+1155,South Carolina,Ohio,8413.0
+1156,South Carolina,Alabama,109.0
+1157,South Carolina,Utah,0.0
+1158,South Carolina,Hawaii,0.0
+1159,South Carolina,Illinois,37500.0
+1160,South Carolina,Indiana,1280.0
+1161,South Carolina,Idaho,0.0
+1162,South Carolina,West Virginia,180.0
+1163,South Carolina,Tennessee,9614.0
+1164,South Carolina,Arizona,0.0
+1165,South Carolina,Massachusetts,14070.0
+1166,Vermont,Montana,0.0
+1167,Vermont,Florida,0.0
+1168,Vermont,Washington,0.0
+1169,Vermont,Arkansas,0.0
+1170,Vermont,South Dakota,0.0
+1171,Vermont,Mississippi,0.0
+1172,Vermont,Kansas,0.0
+1173,Vermont,Virginia,6929.0
+1174,Vermont,Georgia,1945.0
+1175,Vermont,Kentucky,0.0
+1176,Vermont,Rhode Island,0.0
+1177,Vermont,Oklahoma,0.0
+1178,Vermont,Louisiana,0.0
+1179,Vermont,Minnesota,0.0
+1180,Vermont,U.S. Pacific Trust Territories and Possessions,0.0
+1181,Vermont,Michigan,5066.0
+1182,Vermont,Pennsylvania,4935.0
+1183,Vermont,Nebraska,0.0
+1184,Vermont,Wyoming,0.0
+1185,Vermont,Oregon,0.0
+1186,Vermont,Iowa,0.0
+1187,Vermont,South Carolina,0.0
+1188,Vermont,Vermont,0.0
+1189,Vermont,Maryland,0.0
+1190,Vermont,Connecticut,0.0
+1191,Vermont,North Carolina,5314.0
+1192,Vermont,New Mexico,0.0
+1193,Vermont,U.S. Virgin Islands,0.0
+1194,Vermont,Texas,137.0
+1195,Vermont,New Jersey,2513.0
+1196,Vermont,New Hampshire,0.0
+1197,Vermont,Alaska,0.0
+1198,Vermont,North Dakota,0.0
+1199,Vermont,Maine,0.0
+1200,Vermont,Colorado,2177.0
+1201,Vermont,California,2.0
+1202,Vermont,Missouri,0.0
+1203,Vermont,Nevada,0.0
+1204,Vermont,Delaware,0.0
+1205,Vermont,Wisconsin,0.0
+1206,Vermont,New York,3538.0
+1207,Vermont,Puerto Rico,0.0
+1208,Vermont,Ohio,0.0
+1209,Vermont,Alabama,0.0
+1210,Vermont,Utah,0.0
+1211,Vermont,Hawaii,0.0
+1212,Vermont,Illinois,9413.0
+1213,Vermont,Indiana,0.0
+1214,Vermont,Idaho,0.0
+1215,Vermont,West Virginia,0.0
+1216,Vermont,Tennessee,0.0
+1217,Vermont,Arizona,0.0
+1218,Vermont,Massachusetts,566.0
+1219,Maryland,Montana,0.0
+1220,Maryland,Florida,162265.0
+1221,Maryland,Washington,5315.0
+1222,Maryland,Arkansas,129.0
+1223,Maryland,South Dakota,0.0
+1224,Maryland,Mississippi,2126.0
+1225,Maryland,Kansas,136.0
+1226,Maryland,Virginia,12069.0
+1227,Maryland,Georgia,64973.0
+1228,Maryland,Kentucky,13791.0
+1229,Maryland,Rhode Island,16657.0
+1230,Maryland,Oklahoma,151.0
+1231,Maryland,Louisiana,5674.0
+1232,Maryland,Minnesota,13344.0
+1233,Maryland,U.S. Pacific Trust Territories and Possessions,0.0
+1234,Maryland,Michigan,22288.0
+1235,Maryland,Pennsylvania,12050.0
+1236,Maryland,Nebraska,0.0
+1237,Maryland,Wyoming,0.0
+1238,Maryland,Oregon,0.0
+1239,Maryland,Iowa,0.0
+1240,Maryland,South Carolina,28672.0
+1241,Maryland,Vermont,0.0
+1242,Maryland,Maryland,0.0
+1243,Maryland,Connecticut,12693.0
+1244,Maryland,North Carolina,49259.0
+1245,Maryland,New Mexico,1349.0
+1246,Maryland,U.S. Virgin Islands,0.0
+1247,Maryland,Texas,69994.0
+1248,Maryland,New Jersey,276.0
+1249,Maryland,New Hampshire,14048.0
+1250,Maryland,Alaska,0.0
+1251,Maryland,North Dakota,142.0
+1252,Maryland,Maine,13714.0
+1253,Maryland,Colorado,32098.0
+1254,Maryland,California,24535.0
+1255,Maryland,Missouri,18079.0
+1256,Maryland,Nevada,22363.0
+1257,Maryland,Delaware,0.0
+1258,Maryland,Wisconsin,8213.0
+1259,Maryland,New York,55174.0
+1260,Maryland,Puerto Rico,10945.0
+1261,Maryland,Ohio,19325.0
+1262,Maryland,Alabama,516.0
+1263,Maryland,Utah,7576.0
+1264,Maryland,Hawaii,0.0
+1265,Maryland,Illinois,42536.0
+1266,Maryland,Indiana,9539.0
+1267,Maryland,Idaho,0.0
+1268,Maryland,West Virginia,136.0
+1269,Maryland,Tennessee,15400.0
+1270,Maryland,Arizona,10705.0
+1271,Maryland,Massachusetts,20355.0
+1272,Connecticut,Montana,0.0
+1273,Connecticut,Florida,51836.0
+1274,Connecticut,Washington,0.0
+1275,Connecticut,Arkansas,0.0
+1276,Connecticut,South Dakota,0.0
+1277,Connecticut,Mississippi,0.0
+1278,Connecticut,Kansas,0.0
+1279,Connecticut,Virginia,15779.0
+1280,Connecticut,Georgia,23856.0
+1281,Connecticut,Kentucky,0.0
+1282,Connecticut,Rhode Island,0.0
+1283,Connecticut,Oklahoma,0.0
+1284,Connecticut,Louisiana,100.0
+1285,Connecticut,Minnesota,9224.0
+1286,Connecticut,U.S. Pacific Trust Territories and Possessions,0.0
+1287,Connecticut,Michigan,8967.0
+1288,Connecticut,Pennsylvania,9942.0
+1289,Connecticut,Nebraska,0.0
+1290,Connecticut,Wyoming,129.0
+1291,Connecticut,Oregon,0.0
+1292,Connecticut,Iowa,0.0
+1293,Connecticut,South Carolina,5627.0
+1294,Connecticut,Vermont,0.0
+1295,Connecticut,Maryland,13218.0
+1296,Connecticut,Connecticut,0.0
+1297,Connecticut,North Carolina,17885.0
+1298,Connecticut,New Mexico,0.0
+1299,Connecticut,U.S. Virgin Islands,0.0
+1300,Connecticut,Texas,7360.0
+1301,Connecticut,New Jersey,167.0
+1302,Connecticut,New Hampshire,0.0
+1303,Connecticut,Alaska,0.0
+1304,Connecticut,North Dakota,0.0
+1305,Connecticut,Maine,0.0
+1306,Connecticut,Colorado,9666.0
+1307,Connecticut,California,4520.0
+1308,Connecticut,Missouri,0.0
+1309,Connecticut,Nevada,2693.0
+1310,Connecticut,Delaware,0.0
+1311,Connecticut,Wisconsin,0.0
+1312,Connecticut,New York,275.0
+1313,Connecticut,Puerto Rico,4649.0
+1314,Connecticut,Ohio,0.0
+1315,Connecticut,Alabama,1.0
+1316,Connecticut,Utah,0.0
+1317,Connecticut,Hawaii,0.0
+1318,Connecticut,Illinois,23286.0
+1319,Connecticut,Indiana,156.0
+1320,Connecticut,Idaho,6.0
+1321,Connecticut,West Virginia,0.0
+1322,Connecticut,Tennessee,3394.0
+1323,Connecticut,Arizona,0.0
+1324,Connecticut,Massachusetts,14.0
+1325,North Carolina,Montana,7031.0
+1326,North Carolina,Florida,346214.0
+1327,North Carolina,Washington,18219.0
+1328,North Carolina,Arkansas,15138.0
+1329,North Carolina,South Dakota,5663.0
+1330,North Carolina,Mississippi,11138.0
+1331,North Carolina,Kansas,166.0
+1332,North Carolina,Virginia,135192.0
+1333,North Carolina,Georgia,161703.0
+1334,North Carolina,Kentucky,32853.0
+1335,North Carolina,Rhode Island,11266.0
+1336,North Carolina,Oklahoma,14506.0
+1337,North Carolina,Louisiana,19516.0
+1338,North Carolina,Minnesota,30613.0
+1339,North Carolina,U.S. Pacific Trust Territories and Possessions,0.0
+1340,North Carolina,Michigan,53009.0
+1341,North Carolina,Pennsylvania,102039.0
+1342,North Carolina,Nebraska,7466.0
+1343,North Carolina,Wyoming,3337.0
+1344,North Carolina,Oregon,3628.0
+1345,North Carolina,Iowa,9329.0
+1346,North Carolina,South Carolina,70983.0
+1347,North Carolina,Vermont,5748.0
+1348,North Carolina,Maryland,49741.0
+1349,North Carolina,Connecticut,17981.0
+1350,North Carolina,North Carolina,195103.0
+1351,North Carolina,New Mexico,0.0
+1352,North Carolina,U.S. Virgin Islands,3154.0
+1353,North Carolina,Texas,154554.0
+1354,North Carolina,New Jersey,52422.0
+1355,North Carolina,New Hampshire,6556.0
+1356,North Carolina,Alaska,0.0
+1357,North Carolina,North Dakota,0.0
+1358,North Carolina,Maine,14369.0
+1359,North Carolina,Colorado,56271.0
+1360,North Carolina,California,81292.0
+1361,North Carolina,Missouri,38518.0
+1362,North Carolina,Nevada,48776.0
+1363,North Carolina,Delaware,0.0
+1364,North Carolina,Wisconsin,15089.0
+1365,North Carolina,New York,135096.0
+1366,North Carolina,Puerto Rico,10302.0
+1367,North Carolina,Ohio,48881.0
+1368,North Carolina,Alabama,25066.0
+1369,North Carolina,Utah,16628.0
+1370,North Carolina,Hawaii,4361.0
+1371,North Carolina,Illinois,86593.0
+1372,North Carolina,Indiana,25808.0
+1373,North Carolina,Idaho,0.0
+1374,North Carolina,West Virginia,7652.0
+1375,North Carolina,Tennessee,73126.0
+1376,North Carolina,Arizona,40903.0
+1377,North Carolina,Massachusetts,57435.0
+1378,New Mexico,Montana,0.0
+1379,New Mexico,Florida,0.0
+1380,New Mexico,Washington,4574.0
+1381,New Mexico,Arkansas,0.0
+1382,New Mexico,South Dakota,0.0
+1383,New Mexico,Mississippi,0.0
+1384,New Mexico,Kansas,120.0
+1385,New Mexico,Virginia,0.0
+1386,New Mexico,Georgia,12180.0
+1387,New Mexico,Kentucky,0.0
+1388,New Mexico,Rhode Island,0.0
+1389,New Mexico,Oklahoma,0.0
+1390,New Mexico,Louisiana,0.0
+1391,New Mexico,Minnesota,750.0
+1392,New Mexico,U.S. Pacific Trust Territories and Possessions,0.0
+1393,New Mexico,Michigan,0.0
+1394,New Mexico,Pennsylvania,0.0
+1395,New Mexico,Nebraska,0.0
+1396,New Mexico,Wyoming,0.0
+1397,New Mexico,Oregon,1775.0
+1398,New Mexico,Iowa,0.0
+1399,New Mexico,South Carolina,0.0
+1400,New Mexico,Vermont,0.0
+1401,New Mexico,Maryland,1471.0
+1402,New Mexico,Connecticut,0.0
+1403,New Mexico,North Carolina,0.0
+1404,New Mexico,New Mexico,1086.0
+1405,New Mexico,U.S. Virgin Islands,0.0
+1406,New Mexico,Texas,67372.0
+1407,New Mexico,New Jersey,0.0
+1408,New Mexico,New Hampshire,0.0
+1409,New Mexico,Alaska,0.0
+1410,New Mexico,North Dakota,0.0
+1411,New Mexico,Maine,0.0
+1412,New Mexico,Colorado,23806.0
+1413,New Mexico,California,18764.0
+1414,New Mexico,Missouri,0.0
+1415,New Mexico,Nevada,11836.0
+1416,New Mexico,Delaware,0.0
+1417,New Mexico,Wisconsin,0.0
+1418,New Mexico,New York,2162.0
+1419,New Mexico,Puerto Rico,0.0
+1420,New Mexico,Ohio,0.0
+1421,New Mexico,Alabama,0.0
+1422,New Mexico,Utah,5738.0
+1423,New Mexico,Hawaii,0.0
+1424,New Mexico,Illinois,11180.0
+1425,New Mexico,Indiana,0.0
+1426,New Mexico,Idaho,0.0
+1427,New Mexico,West Virginia,0.0
+1428,New Mexico,Tennessee,0.0
+1429,New Mexico,Arizona,26949.0
+1430,New Mexico,Massachusetts,0.0
+1431,U.S. Virgin Islands,Montana,0.0
+1432,U.S. Virgin Islands,Florida,21340.0
+1433,U.S. Virgin Islands,Washington,0.0
+1434,U.S. Virgin Islands,Arkansas,0.0
+1435,U.S. Virgin Islands,South Dakota,0.0
+1436,U.S. Virgin Islands,Mississippi,0.0
+1437,U.S. Virgin Islands,Kansas,0.0
+1438,U.S. Virgin Islands,Virginia,1439.0
+1439,U.S. Virgin Islands,Georgia,9029.0
+1440,U.S. Virgin Islands,Kentucky,0.0
+1441,U.S. Virgin Islands,Rhode Island,0.0
+1442,U.S. Virgin Islands,Oklahoma,0.0
+1443,U.S. Virgin Islands,Louisiana,0.0
+1444,U.S. Virgin Islands,Minnesota,0.0
+1445,U.S. Virgin Islands,U.S. Pacific Trust Territories and Possessions,0.0
+1446,U.S. Virgin Islands,Michigan,0.0
+1447,U.S. Virgin Islands,Pennsylvania,0.0
+1448,U.S. Virgin Islands,Nebraska,0.0
+1449,U.S. Virgin Islands,Wyoming,0.0
+1450,U.S. Virgin Islands,Oregon,0.0
+1451,U.S. Virgin Islands,Iowa,0.0
+1452,U.S. Virgin Islands,South Carolina,92.0
+1453,U.S. Virgin Islands,Vermont,0.0
+1454,U.S. Virgin Islands,Maryland,0.0
+1455,U.S. Virgin Islands,Connecticut,0.0
+1456,U.S. Virgin Islands,North Carolina,3227.0
+1457,U.S. Virgin Islands,New Mexico,0.0
+1458,U.S. Virgin Islands,U.S. Virgin Islands,3614.0
+1459,U.S. Virgin Islands,Texas,419.0
+1460,U.S. Virgin Islands,New Jersey,2664.0
+1461,U.S. Virgin Islands,New Hampshire,0.0
+1462,U.S. Virgin Islands,Alaska,0.0
+1463,U.S. Virgin Islands,North Dakota,0.0
+1464,U.S. Virgin Islands,Maine,0.0
+1465,U.S. Virgin Islands,Colorado,0.0
+1466,U.S. Virgin Islands,California,0.0
+1467,U.S. Virgin Islands,Missouri,0.0
+1468,U.S. Virgin Islands,Nevada,0.0
+1469,U.S. Virgin Islands,Delaware,0.0
+1470,U.S. Virgin Islands,Wisconsin,0.0
+1471,U.S. Virgin Islands,New York,2008.0
+1472,U.S. Virgin Islands,Puerto Rico,5618.0
+1473,U.S. Virgin Islands,Ohio,0.0
+1474,U.S. Virgin Islands,Alabama,0.0
+1475,U.S. Virgin Islands,Utah,0.0
+1476,U.S. Virgin Islands,Hawaii,0.0
+1477,U.S. Virgin Islands,Illinois,193.0
+1478,U.S. Virgin Islands,Indiana,0.0
+1479,U.S. Virgin Islands,Idaho,0.0
+1480,U.S. Virgin Islands,West Virginia,0.0
+1481,U.S. Virgin Islands,Tennessee,0.0
+1482,U.S. Virgin Islands,Arizona,0.0
+1483,U.S. Virgin Islands,Massachusetts,182.0
+1484,Texas,Montana,20276.0
+1485,Texas,Florida,562927.0
+1486,Texas,Washington,97738.0
+1487,Texas,Arkansas,57908.0
+1488,Texas,South Dakota,9244.0
+1489,Texas,Mississippi,30770.0
+1490,Texas,Kansas,26052.0
+1491,Texas,Virginia,123274.0
+1492,Texas,Georgia,261341.0
+1493,Texas,Kentucky,47955.0
+1494,Texas,Rhode Island,0.0
+1495,Texas,Oklahoma,97889.0
+1496,Texas,Louisiana,117669.0
+1497,Texas,Minnesota,68848.0
+1498,Texas,U.S. Pacific Trust Territories and Possessions,0.0
+1499,Texas,Michigan,83168.0
+1500,Texas,Pennsylvania,90405.0
+1501,Texas,Nebraska,25413.0
+1502,Texas,Wyoming,6757.0
+1503,Texas,Oregon,40962.0
+1504,Texas,Iowa,19238.0
+1505,Texas,South Carolina,40155.0
+1506,Texas,Vermont,235.0
+1507,Texas,Maryland,72359.0
+1508,Texas,Connecticut,7824.0
+1509,Texas,North Carolina,151956.0
+1510,Texas,New Mexico,70663.0
+1511,Texas,U.S. Virgin Islands,260.0
+1512,Texas,Texas,1141395.0
+1513,Texas,New Jersey,90831.0
+1514,Texas,New Hampshire,0.0
+1515,Texas,Alaska,8439.0
+1516,Texas,North Dakota,5986.0
+1517,Texas,Maine,5699.0
+1518,Texas,Colorado,323671.0
+1519,Texas,California,641958.0
+1520,Texas,Missouri,137297.0
+1521,Texas,Nevada,254109.0
+1522,Texas,Delaware,0.0
+1523,Texas,Wisconsin,25445.0
+1524,Texas,New York,132126.0
+1525,Texas,Puerto Rico,14092.0
+1526,Texas,Ohio,52658.0
+1527,Texas,Alabama,49729.0
+1528,Texas,Utah,82856.0
+1529,Texas,Hawaii,28200.0
+1530,Texas,Illinois,258886.0
+1531,Texas,Indiana,47014.0
+1532,Texas,Idaho,15175.0
+1533,Texas,West Virginia,0.0
+1534,Texas,Tennessee,163485.0
+1535,Texas,Arizona,224206.0
+1536,Texas,Massachusetts,62425.0
+1537,New Jersey,Montana,565.0
+1538,New Jersey,Florida,269182.0
+1539,New Jersey,Washington,23676.0
+1540,New Jersey,Arkansas,0.0
+1541,New Jersey,South Dakota,153.0
+1542,New Jersey,Mississippi,0.0
+1543,New Jersey,Kansas,0.0
+1544,New Jersey,Virginia,22262.0
+1545,New Jersey,Georgia,67141.0
+1546,New Jersey,Kentucky,6995.0
+1547,New Jersey,Rhode Island,1570.0
+1548,New Jersey,Oklahoma,0.0
+1549,New Jersey,Louisiana,5131.0
+1550,New Jersey,Minnesota,13247.0
+1551,New Jersey,U.S. Pacific Trust Territories and Possessions,0.0
+1552,New Jersey,Michigan,18287.0
+1553,New Jersey,Pennsylvania,3867.0
+1554,New Jersey,Nebraska,0.0
+1555,New Jersey,Wyoming,189.0
+1556,New Jersey,Oregon,9393.0
+1557,New Jersey,Iowa,0.0
+1558,New Jersey,South Carolina,23426.0
+1559,New Jersey,Vermont,2603.0
+1560,New Jersey,Maryland,58.0
+1561,New Jersey,Connecticut,2.0
+1562,New Jersey,North Carolina,50795.0
+1563,New Jersey,New Mexico,0.0
+1564,New Jersey,U.S. Virgin Islands,2667.0
+1565,New Jersey,Texas,86385.0
+1566,New Jersey,New Jersey,52.0
+1567,New Jersey,New Hampshire,220.0
+1568,New Jersey,Alaska,384.0
+1569,New Jersey,North Dakota,0.0
+1570,New Jersey,Maine,5666.0
+1571,New Jersey,Colorado,32285.0
+1572,New Jersey,California,126089.0
+1573,New Jersey,Missouri,3888.0
+1574,New Jersey,Nevada,32591.0
+1575,New Jersey,Delaware,0.0
+1576,New Jersey,Wisconsin,2571.0
+1577,New Jersey,New York,7970.0
+1578,New Jersey,Puerto Rico,31376.0
+1579,New Jersey,Ohio,15221.0
+1580,New Jersey,Alabama,0.0
+1581,New Jersey,Utah,7150.0
+1582,New Jersey,Hawaii,4090.0
+1583,New Jersey,Illinois,49502.0
+1584,New Jersey,Indiana,4013.0
+1585,New Jersey,Idaho,0.0
+1586,New Jersey,West Virginia,0.0
+1587,New Jersey,Tennessee,15785.0
+1588,New Jersey,Arizona,23081.0
+1589,New Jersey,Massachusetts,25449.0
+1590,New Hampshire,Montana,0.0
+1591,New Hampshire,Florida,6807.0
+1592,New Hampshire,Washington,0.0
+1593,New Hampshire,Arkansas,0.0
+1594,New Hampshire,South Dakota,0.0
+1595,New Hampshire,Mississippi,0.0
+1596,New Hampshire,Kansas,0.0
+1597,New Hampshire,Virginia,6010.0
+1598,New Hampshire,Georgia,0.0
+1599,New Hampshire,Kentucky,0.0
+1600,New Hampshire,Rhode Island,0.0
+1601,New Hampshire,Oklahoma,0.0
+1602,New Hampshire,Louisiana,0.0
+1603,New Hampshire,Minnesota,0.0
+1604,New Hampshire,U.S. Pacific Trust Territories and Possessions,0.0
+1605,New Hampshire,Michigan,0.0
+1606,New Hampshire,Pennsylvania,5326.0
+1607,New Hampshire,Nebraska,0.0
+1608,New Hampshire,Wyoming,0.0
+1609,New Hampshire,Oregon,0.0
+1610,New Hampshire,Iowa,0.0
+1611,New Hampshire,South Carolina,0.0
+1612,New Hampshire,Vermont,0.0
+1613,New Hampshire,Maryland,14160.0
+1614,New Hampshire,Connecticut,0.0
+1615,New Hampshire,North Carolina,6492.0
+1616,New Hampshire,New Mexico,0.0
+1617,New Hampshire,U.S. Virgin Islands,0.0
+1618,New Hampshire,Texas,0.0
+1619,New Hampshire,New Jersey,0.0
+1620,New Hampshire,New Hampshire,0.0
+1621,New Hampshire,Alaska,0.0
+1622,New Hampshire,North Dakota,0.0
+1623,New Hampshire,Maine,142.0
+1624,New Hampshire,Colorado,0.0
+1625,New Hampshire,California,14.0
+1626,New Hampshire,Missouri,0.0
+1627,New Hampshire,Nevada,0.0
+1628,New Hampshire,Delaware,0.0
+1629,New Hampshire,Wisconsin,0.0
+1630,New Hampshire,New York,329.0
+1631,New Hampshire,Puerto Rico,0.0
+1632,New Hampshire,Ohio,0.0
+1633,New Hampshire,Alabama,0.0
+1634,New Hampshire,Utah,0.0
+1635,New Hampshire,Hawaii,0.0
+1636,New Hampshire,Illinois,9705.0
+1637,New Hampshire,Indiana,100.0
+1638,New Hampshire,Idaho,0.0
+1639,New Hampshire,West Virginia,0.0
+1640,New Hampshire,Tennessee,0.0
+1641,New Hampshire,Arizona,0.0
+1642,New Hampshire,Massachusetts,616.0
+1643,Alaska,Montana,0.0
+1644,Alaska,Florida,2.0
+1645,Alaska,Washington,138676.0
+1646,Alaska,Arkansas,0.0
+1647,Alaska,South Dakota,0.0
+1648,Alaska,Mississippi,0.0
+1649,Alaska,Kansas,0.0
+1650,Alaska,Virginia,0.0
+1651,Alaska,Georgia,4577.0
+1652,Alaska,Kentucky,0.0
+1653,Alaska,Rhode Island,0.0
+1654,Alaska,Oklahoma,0.0
+1655,Alaska,Louisiana,0.0
+1656,Alaska,Minnesota,14356.0
+1657,Alaska,U.S. Pacific Trust Territories and Possessions,0.0
+1658,Alaska,Michigan,755.0
+1659,Alaska,Pennsylvania,0.0
+1660,Alaska,Nebraska,0.0
+1661,Alaska,Wyoming,0.0
+1662,Alaska,Oregon,8210.0
+1663,Alaska,Iowa,0.0
+1664,Alaska,South Carolina,0.0
+1665,Alaska,Vermont,0.0
+1666,Alaska,Maryland,0.0
+1667,Alaska,Connecticut,0.0
+1668,Alaska,North Carolina,0.0
+1669,Alaska,New Mexico,0.0
+1670,Alaska,U.S. Virgin Islands,0.0
+1671,Alaska,Texas,10195.0
+1672,Alaska,New Jersey,692.0
+1673,Alaska,New Hampshire,0.0
+1674,Alaska,Alaska,210440.0
+1675,Alaska,North Dakota,0.0
+1676,Alaska,Maine,0.0
+1677,Alaska,Colorado,6524.0
+1678,Alaska,California,4773.0
+1679,Alaska,Missouri,0.0
+1680,Alaska,Nevada,0.0
+1681,Alaska,Delaware,0.0
+1682,Alaska,Wisconsin,0.0
+1683,Alaska,New York,689.0
+1684,Alaska,Puerto Rico,0.0
+1685,Alaska,Ohio,0.0
+1686,Alaska,Alabama,0.0
+1687,Alaska,Utah,5494.0
+1688,Alaska,Hawaii,1659.0
+1689,Alaska,Illinois,17016.0
+1690,Alaska,Indiana,0.0
+1691,Alaska,Idaho,0.0
+1692,Alaska,West Virginia,0.0
+1693,Alaska,Tennessee,0.0
+1694,Alaska,Arizona,4130.0
+1695,Alaska,Massachusetts,0.0
+1696,North Dakota,Montana,16.0
+1697,North Dakota,Florida,0.0
+1698,North Dakota,Washington,186.0
+1699,North Dakota,Arkansas,0.0
+1700,North Dakota,South Dakota,0.0
+1701,North Dakota,Mississippi,0.0
+1702,North Dakota,Kansas,0.0
+1703,North Dakota,Virginia,0.0
+1704,North Dakota,Georgia,0.0
+1705,North Dakota,Kentucky,0.0
+1706,North Dakota,Rhode Island,0.0
+1707,North Dakota,Oklahoma,0.0
+1708,North Dakota,Louisiana,0.0
+1709,North Dakota,Minnesota,29928.0
+1710,North Dakota,U.S. Pacific Trust Territories and Possessions,0.0
+1711,North Dakota,Michigan,0.0
+1712,North Dakota,Pennsylvania,0.0
+1713,North Dakota,Nebraska,47.0
+1714,North Dakota,Wyoming,48.0
+1715,North Dakota,Oregon,0.0
+1716,North Dakota,Iowa,0.0
+1717,North Dakota,South Carolina,0.0
+1718,North Dakota,Vermont,0.0
+1719,North Dakota,Maryland,146.0
+1720,North Dakota,Connecticut,0.0
+1721,North Dakota,North Carolina,0.0
+1722,North Dakota,New Mexico,0.0
+1723,North Dakota,U.S. Virgin Islands,0.0
+1724,North Dakota,Texas,6227.0
+1725,North Dakota,New Jersey,0.0
+1726,North Dakota,New Hampshire,0.0
+1727,North Dakota,Alaska,0.0
+1728,North Dakota,North Dakota,874.0
+1729,North Dakota,Maine,0.0
+1730,North Dakota,Colorado,22132.0
+1731,North Dakota,California,0.0
+1732,North Dakota,Missouri,0.0
+1733,North Dakota,Nevada,4012.0
+1734,North Dakota,Delaware,0.0
+1735,North Dakota,Wisconsin,0.0
+1736,North Dakota,New York,109.0
+1737,North Dakota,Puerto Rico,0.0
+1738,North Dakota,Ohio,0.0
+1739,North Dakota,Alabama,0.0
+1740,North Dakota,Utah,120.0
+1741,North Dakota,Hawaii,0.0
+1742,North Dakota,Illinois,6772.0
+1743,North Dakota,Indiana,108.0
+1744,North Dakota,Idaho,118.0
+1745,North Dakota,West Virginia,0.0
+1746,North Dakota,Tennessee,1073.0
+1747,North Dakota,Arizona,5142.0
+1748,North Dakota,Massachusetts,0.0
+1749,Maine,Montana,0.0
+1750,Maine,Florida,4510.0
+1751,Maine,Washington,0.0
+1752,Maine,Arkansas,0.0
+1753,Maine,South Dakota,0.0
+1754,Maine,Mississippi,0.0
+1755,Maine,Kansas,0.0
+1756,Maine,Virginia,20892.0
+1757,Maine,Georgia,7600.0
+1758,Maine,Kentucky,77.0
+1759,Maine,Rhode Island,0.0
+1760,Maine,Oklahoma,0.0
+1761,Maine,Louisiana,0.0
+1762,Maine,Minnesota,818.0
+1763,Maine,U.S. Pacific Trust Territories and Possessions,0.0
+1764,Maine,Michigan,6045.0
+1765,Maine,Pennsylvania,13475.0
+1766,Maine,Nebraska,0.0
+1767,Maine,Wyoming,0.0
+1768,Maine,Oregon,0.0
+1769,Maine,Iowa,0.0
+1770,Maine,South Carolina,115.0
+1771,Maine,Vermont,0.0
+1772,Maine,Maryland,13826.0
+1773,Maine,Connecticut,2.0
+1774,Maine,North Carolina,15521.0
+1775,Maine,New Mexico,0.0
+1776,Maine,U.S. Virgin Islands,0.0
+1777,Maine,Texas,4769.0
+1778,Maine,New Jersey,5793.0
+1779,Maine,New Hampshire,0.0
+1780,Maine,Alaska,0.0
+1781,Maine,North Dakota,0.0
+1782,Maine,Maine,19.0
+1783,Maine,Colorado,922.0
+1784,Maine,California,1.0
+1785,Maine,Missouri,0.0
+1786,Maine,Nevada,0.0
+1787,Maine,Delaware,134.0
+1788,Maine,Wisconsin,76.0
+1789,Maine,New York,15592.0
+1790,Maine,Puerto Rico,0.0
+1791,Maine,Ohio,224.0
+1792,Maine,Alabama,0.0
+1793,Maine,Utah,0.0
+1794,Maine,Hawaii,0.0
+1795,Maine,Illinois,26888.0
+1796,Maine,Indiana,92.0
+1797,Maine,Idaho,0.0
+1798,Maine,West Virginia,0.0
+1799,Maine,Tennessee,0.0
+1800,Maine,Arizona,0.0
+1801,Maine,Massachusetts,4425.0
+1802,Colorado,Montana,62897.0
+1803,Colorado,Florida,142242.0
+1804,Colorado,Washington,98386.0
+1805,Colorado,Arkansas,12528.0
+1806,Colorado,South Dakota,23694.0
+1807,Colorado,Mississippi,0.0
+1808,Colorado,Kansas,14421.0
+1809,Colorado,Virginia,66013.0
+1810,Colorado,Georgia,69201.0
+1811,Colorado,Kentucky,28518.0
+1812,Colorado,Rhode Island,3.0
+1813,Colorado,Oklahoma,34132.0
+1814,Colorado,Louisiana,8195.0
+1815,Colorado,Minnesota,66411.0
+1816,Colorado,U.S. Pacific Trust Territories and Possessions,0.0
+1817,Colorado,Michigan,53303.0
+1818,Colorado,Pennsylvania,52467.0
+1819,Colorado,Nebraska,34933.0
+1820,Colorado,Wyoming,28857.0
+1821,Colorado,Oregon,65235.0
+1822,Colorado,Iowa,29721.0
+1823,Colorado,South Carolina,10113.0
+1824,Colorado,Vermont,2282.0
+1825,Colorado,Maryland,31495.0
+1826,Colorado,Connecticut,8958.0
+1827,Colorado,North Carolina,55447.0
+1828,Colorado,New Mexico,23595.0
+1829,Colorado,U.S. Virgin Islands,0.0
+1830,Colorado,Texas,316598.0
+1831,Colorado,New Jersey,33640.0
+1832,Colorado,New Hampshire,0.0
+1833,Colorado,Alaska,6054.0
+1834,Colorado,North Dakota,21810.0
+1835,Colorado,Maine,737.0
+1836,Colorado,Colorado,170459.0
+1837,Colorado,California,401164.0
+1838,Colorado,Missouri,83778.0
+1839,Colorado,Nevada,111919.0
+1840,Colorado,Delaware,0.0
+1841,Colorado,Wisconsin,34171.0
+1842,Colorado,New York,60985.0
+1843,Colorado,Puerto Rico,0.0
+1844,Colorado,Ohio,39025.0
+1845,Colorado,Alabama,9929.0
+1846,Colorado,Utah,80909.0
+1847,Colorado,Hawaii,21926.0
+1848,Colorado,Illinois,139892.0
+1849,Colorado,Indiana,25932.0
+1850,Colorado,Idaho,29234.0
+1851,Colorado,West Virginia,0.0
+1852,Colorado,Tennessee,50177.0
+1853,Colorado,Arizona,126193.0
+1854,Colorado,Massachusetts,40881.0
+1855,California,Montana,11997.0
+1856,California,Florida,156126.0
+1857,California,Washington,391761.0
+1858,California,Arkansas,0.0
+1859,California,South Dakota,142.0
+1860,California,Mississippi,0.0
+1861,California,Kansas,0.0
+1862,California,Virginia,83434.0
+1863,California,Georgia,172347.0
+1864,California,Kentucky,5669.0
+1865,California,Rhode Island,0.0
+1866,California,Oklahoma,6207.0
+1867,California,Louisiana,3788.0
+1868,California,Minnesota,92122.0
+1869,California,U.S. Pacific Trust Territories and Possessions,0.0
+1870,California,Michigan,64385.0
+1871,California,Pennsylvania,49878.0
+1872,California,Nebraska,2189.0
+1873,California,Wyoming,1108.0
+1874,California,Oregon,190735.0
+1875,California,Iowa,258.0
+1876,California,South Carolina,1986.0
+1877,California,Vermont,2.0
+1878,California,Maryland,26726.0
+1879,California,Connecticut,4905.0
+1880,California,North Carolina,86262.0
+1881,California,New Mexico,20303.0
+1882,California,U.S. Virgin Islands,0.0
+1883,California,Texas,639623.0
+1884,California,New Jersey,131306.0
+1885,California,New Hampshire,0.0
+1886,California,Alaska,3297.0
+1887,California,North Dakota,0.0
+1888,California,Maine,0.0
+1889,California,Colorado,391708.0
+1890,California,California,1229059.0
+1891,California,Missouri,54536.0
+1892,California,Nevada,464364.0
+1893,California,Delaware,0.0
+1894,California,Wisconsin,3620.0
+1895,California,New York,200319.0
+1896,California,Puerto Rico,4.0
+1897,California,Ohio,14978.0
+1898,California,Alabama,7.0
+1899,California,Utah,211649.0
+1900,California,Hawaii,349306.0
+1901,California,Illinois,313381.0
+1902,California,Indiana,10111.0
+1903,California,Idaho,42187.0
+1904,California,West Virginia,0.0
+1905,California,Tennessee,52860.0
+1906,California,Arizona,395383.0
+1907,California,Massachusetts,95626.0
+1908,Missouri,Montana,0.0
+1909,Missouri,Florida,104236.0
+1910,Missouri,Washington,18705.0
+1911,Missouri,Arkansas,3077.0
+1912,Missouri,South Dakota,260.0
+1913,Missouri,Mississippi,0.0
+1914,Missouri,Kansas,3177.0
+1915,Missouri,Virginia,20043.0
+1916,Missouri,Georgia,71426.0
+1917,Missouri,Kentucky,290.0
+1918,Missouri,Rhode Island,0.0
+1919,Missouri,Oklahoma,6766.0
+1920,Missouri,Louisiana,0.0
+1921,Missouri,Minnesota,21847.0
+1922,Missouri,U.S. Pacific Trust Territories and Possessions,0.0
+1923,Missouri,Michigan,16694.0
+1924,Missouri,Pennsylvania,17475.0
+1925,Missouri,Nebraska,4013.0
+1926,Missouri,Wyoming,0.0
+1927,Missouri,Oregon,6178.0
+1928,Missouri,Iowa,3195.0
+1929,Missouri,South Carolina,2134.0
+1930,Missouri,Vermont,0.0
+1931,Missouri,Maryland,19170.0
+1932,Missouri,Connecticut,0.0
+1933,Missouri,North Carolina,38654.0
+1934,Missouri,New Mexico,70.0
+1935,Missouri,U.S. Virgin Islands,0.0
+1936,Missouri,Texas,135535.0
+1937,Missouri,New Jersey,3770.0
+1938,Missouri,New Hampshire,0.0
+1939,Missouri,Alaska,0.0
+1940,Missouri,North Dakota,0.0
+1941,Missouri,Maine,0.0
+1942,Missouri,Colorado,83976.0
+1943,Missouri,California,53714.0
+1944,Missouri,Missouri,15173.0
+1945,Missouri,Nevada,43821.0
+1946,Missouri,Delaware,0.0
+1947,Missouri,Wisconsin,4097.0
+1948,Missouri,New York,19926.0
+1949,Missouri,Puerto Rico,0.0
+1950,Missouri,Ohio,4737.0
+1951,Missouri,Alabama,140.0
+1952,Missouri,Utah,17553.0
+1953,Missouri,Hawaii,0.0
+1954,Missouri,Illinois,90473.0
+1955,Missouri,Indiana,0.0
+1956,Missouri,Idaho,0.0
+1957,Missouri,West Virginia,0.0
+1958,Missouri,Tennessee,21570.0
+1959,Missouri,Arizona,38115.0
+1960,Missouri,Massachusetts,11700.0
+1961,Nevada,Montana,8532.0
+1962,Nevada,Florida,56056.0
+1963,Nevada,Washington,98991.0
+1964,Nevada,Arkansas,3286.0
+1965,Nevada,South Dakota,2710.0
+1966,Nevada,Mississippi,0.0
+1967,Nevada,Kansas,2575.0
+1968,Nevada,Virginia,13952.0
+1969,Nevada,Georgia,65326.0
+1970,Nevada,Kentucky,18688.0
+1971,Nevada,Rhode Island,0.0
+1972,Nevada,Oklahoma,11950.0
+1973,Nevada,Louisiana,3742.0
+1974,Nevada,Minnesota,43255.0
+1975,Nevada,U.S. Pacific Trust Territories and Possessions,0.0
+1976,Nevada,Michigan,48601.0
+1977,Nevada,Pennsylvania,29011.0
+1978,Nevada,Nebraska,11506.0
+1979,Nevada,Wyoming,0.0
+1980,Nevada,Oregon,45239.0
+1981,Nevada,Iowa,9738.0
+1982,Nevada,South Carolina,0.0
+1983,Nevada,Vermont,0.0
+1984,Nevada,Maryland,22912.0
+1985,Nevada,Connecticut,2497.0
+1986,Nevada,North Carolina,48714.0
+1987,Nevada,New Mexico,11678.0
+1988,Nevada,U.S. Virgin Islands,0.0
+1989,Nevada,Texas,244777.0
+1990,Nevada,New Jersey,34509.0
+1991,Nevada,New Hampshire,0.0
+1992,Nevada,Alaska,0.0
+1993,Nevada,North Dakota,3946.0
+1994,Nevada,Maine,0.0
+1995,Nevada,Colorado,108365.0
+1996,Nevada,California,457819.0
+1997,Nevada,Missouri,40594.0
+1998,Nevada,Nevada,53559.0
+1999,Nevada,Delaware,0.0
+2000,Nevada,Wisconsin,19330.0
+2001,Nevada,New York,29439.0
+2002,Nevada,Puerto Rico,0.0
+2003,Nevada,Ohio,24732.0
+2004,Nevada,Alabama,2638.0
+2005,Nevada,Utah,51879.0
+2006,Nevada,Hawaii,24846.0
+2007,Nevada,Illinois,117563.0
+2008,Nevada,Indiana,18917.0
+2009,Nevada,Idaho,9984.0
+2010,Nevada,West Virginia,0.0
+2011,Nevada,Tennessee,20473.0
+2012,Nevada,Arizona,84821.0
+2013,Nevada,Massachusetts,16100.0
+2014,Delaware,Montana,0.0
+2015,Delaware,Florida,658.0
+2016,Delaware,Washington,0.0
+2017,Delaware,Arkansas,0.0
+2018,Delaware,South Dakota,0.0
+2019,Delaware,Mississippi,0.0
+2020,Delaware,Kansas,0.0
+2021,Delaware,Virginia,0.0
+2022,Delaware,Georgia,0.0
+2023,Delaware,Kentucky,0.0
+2024,Delaware,Rhode Island,0.0
+2025,Delaware,Oklahoma,0.0
+2026,Delaware,Louisiana,0.0
+2027,Delaware,Minnesota,0.0
+2028,Delaware,U.S. Pacific Trust Territories and Possessions,0.0
+2029,Delaware,Michigan,0.0
+2030,Delaware,Pennsylvania,0.0
+2031,Delaware,Nebraska,0.0
+2032,Delaware,Wyoming,0.0
+2033,Delaware,Oregon,0.0
+2034,Delaware,Iowa,2.0
+2035,Delaware,South Carolina,0.0
+2036,Delaware,Vermont,0.0
+2037,Delaware,Maryland,0.0
+2038,Delaware,Connecticut,0.0
+2039,Delaware,North Carolina,0.0
+2040,Delaware,New Mexico,0.0
+2041,Delaware,U.S. Virgin Islands,0.0
+2042,Delaware,Texas,0.0
+2043,Delaware,New Jersey,0.0
+2044,Delaware,New Hampshire,0.0
+2045,Delaware,Alaska,0.0
+2046,Delaware,North Dakota,0.0
+2047,Delaware,Maine,136.0
+2048,Delaware,Colorado,7.0
+2049,Delaware,California,0.0
+2050,Delaware,Missouri,0.0
+2051,Delaware,Nevada,0.0
+2052,Delaware,Delaware,0.0
+2053,Delaware,Wisconsin,0.0
+2054,Delaware,New York,0.0
+2055,Delaware,Puerto Rico,0.0
+2056,Delaware,Ohio,0.0
+2057,Delaware,Alabama,0.0
+2058,Delaware,Utah,0.0
+2059,Delaware,Hawaii,0.0
+2060,Delaware,Illinois,0.0
+2061,Delaware,Indiana,0.0
+2062,Delaware,Idaho,0.0
+2063,Delaware,West Virginia,0.0
+2064,Delaware,Tennessee,103.0
+2065,Delaware,Arizona,0.0
+2066,Delaware,Massachusetts,0.0
+2067,Wisconsin,Montana,0.0
+2068,Wisconsin,Florida,23378.0
+2069,Wisconsin,Washington,4752.0
+2070,Wisconsin,Arkansas,0.0
+2071,Wisconsin,South Dakota,0.0
+2072,Wisconsin,Mississippi,284.0
+2073,Wisconsin,Kansas,0.0
+2074,Wisconsin,Virginia,4275.0
+2075,Wisconsin,Georgia,42395.0
+2076,Wisconsin,Kentucky,133.0
+2077,Wisconsin,Rhode Island,0.0
+2078,Wisconsin,Oklahoma,0.0
+2079,Wisconsin,Louisiana,0.0
+2080,Wisconsin,Minnesota,36879.0
+2081,Wisconsin,U.S. Pacific Trust Territories and Possessions,0.0
+2082,Wisconsin,Michigan,31058.0
+2083,Wisconsin,Pennsylvania,6626.0
+2084,Wisconsin,Nebraska,0.0
+2085,Wisconsin,Wyoming,0.0
+2086,Wisconsin,Oregon,0.0
+2087,Wisconsin,Iowa,6.0
+2088,Wisconsin,South Carolina,26.0
+2089,Wisconsin,Vermont,0.0
+2090,Wisconsin,Maryland,8202.0
+2091,Wisconsin,Connecticut,0.0
+2092,Wisconsin,North Carolina,16068.0
+2093,Wisconsin,New Mexico,0.0
+2094,Wisconsin,U.S. Virgin Islands,0.0
+2095,Wisconsin,Texas,25978.0
+2096,Wisconsin,New Jersey,2490.0
+2097,Wisconsin,New Hampshire,0.0
+2098,Wisconsin,Alaska,0.0
+2099,Wisconsin,North Dakota,0.0
+2100,Wisconsin,Maine,41.0
+2101,Wisconsin,Colorado,35821.0
+2102,Wisconsin,California,2783.0
+2103,Wisconsin,Missouri,3435.0
+2104,Wisconsin,Nevada,20038.0
+2105,Wisconsin,Delaware,0.0
+2106,Wisconsin,Wisconsin,189.0
+2107,Wisconsin,New York,3813.0
+2108,Wisconsin,Puerto Rico,0.0
+2109,Wisconsin,Ohio,60.0
+2110,Wisconsin,Alabama,0.0
+2111,Wisconsin,Utah,2038.0
+2112,Wisconsin,Hawaii,0.0
+2113,Wisconsin,Illinois,58857.0
+2114,Wisconsin,Indiana,32.0
+2115,Wisconsin,Idaho,0.0
+2116,Wisconsin,West Virginia,0.0
+2117,Wisconsin,Tennessee,8666.0
+2118,Wisconsin,Arizona,20731.0
+2119,Wisconsin,Massachusetts,996.0
+2120,New York,Montana,974.0
+2121,New York,Florida,461356.0
+2122,New York,Washington,28126.0
+2123,New York,Arkansas,1457.0
+2124,New York,South Dakota,44.0
+2125,New York,Mississippi,0.0
+2126,New York,Kansas,0.0
+2127,New York,Virginia,92421.0
+2128,New York,Georgia,166008.0
+2129,New York,Kentucky,13204.0
+2130,New York,Rhode Island,133.0
+2131,New York,Oklahoma,0.0
+2132,New York,Louisiana,3844.0
+2133,New York,Minnesota,27049.0
+2134,New York,U.S. Pacific Trust Territories and Possessions,0.0
+2135,New York,Michigan,76183.0
+2136,New York,Pennsylvania,38961.0
+2137,New York,Nebraska,1371.0
+2138,New York,Wyoming,1980.0
+2139,New York,Oregon,8040.0
+2140,New York,Iowa,0.0
+2141,New York,South Carolina,29245.0
+2142,New York,Vermont,3183.0
+2143,New York,Maryland,52287.0
+2144,New York,Connecticut,10.0
+2145,New York,North Carolina,132364.0
+2146,New York,New Mexico,2466.0
+2147,New York,U.S. Virgin Islands,2255.0
+2148,New York,Texas,129698.0
+2149,New York,New Jersey,8766.0
+2150,New York,New Hampshire,305.0
+2151,New York,Alaska,348.0
+2152,New York,North Dakota,106.0
+2153,New York,Maine,15205.0
+2154,New York,Colorado,60003.0
+2155,New York,California,198797.0
+2156,New York,Missouri,19049.0
+2157,New York,Nevada,28556.0
+2158,New York,Delaware,0.0
+2159,New York,Wisconsin,3809.0
+2160,New York,New York,56984.0
+2161,New York,Puerto Rico,37960.0
+2162,New York,Ohio,18750.0
+2163,New York,Alabama,966.0
+2164,New York,Utah,23200.0
+2165,New York,Hawaii,5187.0
+2166,New York,Illinois,169001.0
+2167,New York,Indiana,8473.0
+2168,New York,Idaho,298.0
+2169,New York,West Virginia,0.0
+2170,New York,Tennessee,32329.0
+2171,New York,Arizona,23169.0
+2172,New York,Massachusetts,48426.0
+2173,Puerto Rico,Montana,0.0
+2174,Puerto Rico,Florida,149965.0
+2175,Puerto Rico,Washington,0.0
+2176,Puerto Rico,Arkansas,0.0
+2177,Puerto Rico,South Dakota,0.0
+2178,Puerto Rico,Mississippi,0.0
+2179,Puerto Rico,Kansas,0.0
+2180,Puerto Rico,Virginia,7339.0
+2181,Puerto Rico,Georgia,17432.0
+2182,Puerto Rico,Kentucky,0.0
+2183,Puerto Rico,Rhode Island,147.0
+2184,Puerto Rico,Oklahoma,0.0
+2185,Puerto Rico,Louisiana,0.0
+2186,Puerto Rico,Minnesota,575.0
+2187,Puerto Rico,U.S. Pacific Trust Territories and Possessions,0.0
+2188,Puerto Rico,Michigan,0.0
+2189,Puerto Rico,Pennsylvania,21516.0
+2190,Puerto Rico,Nebraska,0.0
+2191,Puerto Rico,Wyoming,0.0
+2192,Puerto Rico,Oregon,0.0
+2193,Puerto Rico,Iowa,0.0
+2194,Puerto Rico,South Carolina,172.0
+2195,Puerto Rico,Vermont,0.0
+2196,Puerto Rico,Maryland,12326.0
+2197,Puerto Rico,Connecticut,5249.0
+2198,Puerto Rico,North Carolina,10520.0
+2199,Puerto Rico,New Mexico,0.0
+2200,Puerto Rico,U.S. Virgin Islands,4706.0
+2201,Puerto Rico,Texas,14313.0
+2202,Puerto Rico,New Jersey,36988.0
+2203,Puerto Rico,New Hampshire,0.0
+2204,Puerto Rico,Alaska,0.0
+2205,Puerto Rico,North Dakota,0.0
+2206,Puerto Rico,Maine,0.0
+2207,Puerto Rico,Colorado,0.0
+2208,Puerto Rico,California,0.0
+2209,Puerto Rico,Missouri,0.0
+2210,Puerto Rico,Nevada,0.0
+2211,Puerto Rico,Delaware,0.0
+2212,Puerto Rico,Wisconsin,0.0
+2213,Puerto Rico,New York,41979.0
+2214,Puerto Rico,Puerto Rico,4269.0
+2215,Puerto Rico,Ohio,0.0
+2216,Puerto Rico,Alabama,0.0
+2217,Puerto Rico,Utah,0.0
+2218,Puerto Rico,Hawaii,0.0
+2219,Puerto Rico,Illinois,9229.0
+2220,Puerto Rico,Indiana,145.0
+2221,Puerto Rico,Idaho,0.0
+2222,Puerto Rico,West Virginia,0.0
+2223,Puerto Rico,Tennessee,111.0
+2224,Puerto Rico,Arizona,0.0
+2225,Puerto Rico,Massachusetts,15142.0
+2226,Ohio,Montana,0.0
+2227,Ohio,Florida,103575.0
+2228,Ohio,Washington,3680.0
+2229,Ohio,Arkansas,123.0
+2230,Ohio,South Dakota,0.0
+2231,Ohio,Mississippi,234.0
+2232,Ohio,Kansas,0.0
+2233,Ohio,Virginia,33767.0
+2234,Ohio,Georgia,79625.0
+2235,Ohio,Kentucky,242.0
+2236,Ohio,Rhode Island,0.0
+2237,Ohio,Oklahoma,155.0
+2238,Ohio,Louisiana,875.0
+2239,Ohio,Minnesota,17994.0
+2240,Ohio,U.S. Pacific Trust Territories and Possessions,0.0
+2241,Ohio,Michigan,18878.0
+2242,Ohio,Pennsylvania,14342.0
+2243,Ohio,Nebraska,0.0
+2244,Ohio,Wyoming,0.0
+2245,Ohio,Oregon,569.0
+2246,Ohio,Iowa,161.0
+2247,Ohio,South Carolina,8818.0
+2248,Ohio,Vermont,0.0
+2249,Ohio,Maryland,19647.0
+2250,Ohio,Connecticut,0.0
+2251,Ohio,North Carolina,48690.0
+2252,Ohio,New Mexico,0.0
+2253,Ohio,U.S. Virgin Islands,0.0
+2254,Ohio,Texas,53765.0
+2255,Ohio,New Jersey,15083.0
+2256,Ohio,New Hampshire,0.0
+2257,Ohio,Alaska,0.0
+2258,Ohio,North Dakota,0.0
+2259,Ohio,Maine,267.0
+2260,Ohio,Colorado,39189.0
+2261,Ohio,California,13909.0
+2262,Ohio,Missouri,4806.0
+2263,Ohio,Nevada,25081.0
+2264,Ohio,Delaware,0.0
+2265,Ohio,Wisconsin,8.0
+2266,Ohio,New York,19841.0
+2267,Ohio,Puerto Rico,0.0
+2268,Ohio,Ohio,898.0
+2269,Ohio,Alabama,292.0
+2270,Ohio,Utah,0.0
+2271,Ohio,Hawaii,0.0
+2272,Ohio,Illinois,94916.0
+2273,Ohio,Indiana,47.0
+2274,Ohio,Idaho,0.0
+2275,Ohio,West Virginia,14.0
+2276,Ohio,Tennessee,13606.0
+2277,Ohio,Arizona,18143.0
+2278,Ohio,Massachusetts,13845.0
+2279,Alabama,Montana,1.0
+2280,Alabama,Florida,11486.0
+2281,Alabama,Washington,0.0
+2282,Alabama,Arkansas,0.0
+2283,Alabama,South Dakota,0.0
+2284,Alabama,Mississippi,0.0
+2285,Alabama,Kansas,0.0
+2286,Alabama,Virginia,7712.0
+2287,Alabama,Georgia,61302.0
+2288,Alabama,Kentucky,0.0
+2289,Alabama,Rhode Island,0.0
+2290,Alabama,Oklahoma,140.0
+2291,Alabama,Louisiana,210.0
+2292,Alabama,Minnesota,0.0
+2293,Alabama,U.S. Pacific Trust Territories and Possessions,0.0
+2294,Alabama,Michigan,2162.0
+2295,Alabama,Pennsylvania,2927.0
+2296,Alabama,Nebraska,0.0
+2297,Alabama,Wyoming,0.0
+2298,Alabama,Oregon,0.0
+2299,Alabama,Iowa,0.0
+2300,Alabama,South Carolina,0.0
+2301,Alabama,Vermont,0.0
+2302,Alabama,Maryland,570.0
+2303,Alabama,Connecticut,0.0
+2304,Alabama,North Carolina,25517.0
+2305,Alabama,New Mexico,0.0
+2306,Alabama,U.S. Virgin Islands,0.0
+2307,Alabama,Texas,47557.0
+2308,Alabama,New Jersey,0.0
+2309,Alabama,New Hampshire,0.0
+2310,Alabama,Alaska,0.0
+2311,Alabama,North Dakota,0.0
+2312,Alabama,Maine,0.0
+2313,Alabama,Colorado,9939.0
+2314,Alabama,California,6.0
+2315,Alabama,Missouri,0.0
+2316,Alabama,Nevada,2818.0
+2317,Alabama,Delaware,0.0
+2318,Alabama,Wisconsin,0.0
+2319,Alabama,New York,987.0
+2320,Alabama,Puerto Rico,0.0
+2321,Alabama,Ohio,290.0
+2322,Alabama,Alabama,0.0
+2323,Alabama,Utah,0.0
+2324,Alabama,Hawaii,0.0
+2325,Alabama,Illinois,9293.0
+2326,Alabama,Indiana,74.0
+2327,Alabama,Idaho,0.0
+2328,Alabama,West Virginia,0.0
+2329,Alabama,Tennessee,258.0
+2330,Alabama,Arizona,0.0
+2331,Alabama,Massachusetts,0.0
+2332,Utah,Montana,37181.0
+2333,Utah,Florida,34959.0
+2334,Utah,Washington,56389.0
+2335,Utah,Arkansas,0.0
+2336,Utah,South Dakota,1372.0
+2337,Utah,Mississippi,0.0
+2338,Utah,Kansas,0.0
+2339,Utah,Virginia,8461.0
+2340,Utah,Georgia,48142.0
+2341,Utah,Kentucky,7149.0
+2342,Utah,Rhode Island,0.0
+2343,Utah,Oklahoma,7590.0
+2344,Utah,Louisiana,2224.0
+2345,Utah,Minnesota,22946.0
+2346,Utah,U.S. Pacific Trust Territories and Possessions,0.0
+2347,Utah,Michigan,18483.0
+2348,Utah,Pennsylvania,6882.0
+2349,Utah,Nebraska,5185.0
+2350,Utah,Wyoming,11239.0
+2351,Utah,Oregon,37192.0
+2352,Utah,Iowa,1344.0
+2353,Utah,South Carolina,0.0
+2354,Utah,Vermont,0.0
+2355,Utah,Maryland,7588.0
+2356,Utah,Connecticut,0.0
+2357,Utah,North Carolina,19012.0
+2358,Utah,New Mexico,5887.0
+2359,Utah,U.S. Virgin Islands,0.0
+2360,Utah,Texas,82363.0
+2361,Utah,New Jersey,7878.0
+2362,Utah,New Hampshire,0.0
+2363,Utah,Alaska,3205.0
+2364,Utah,North Dakota,119.0
+2365,Utah,Maine,0.0
+2366,Utah,Colorado,81531.0
+2367,Utah,California,212455.0
+2368,Utah,Missouri,19690.0
+2369,Utah,Nevada,54553.0
+2370,Utah,Delaware,0.0
+2371,Utah,Wisconsin,2198.0
+2372,Utah,New York,24641.0
+2373,Utah,Puerto Rico,0.0
+2374,Utah,Ohio,0.0
+2375,Utah,Alabama,0.0
+2376,Utah,Utah,15570.0
+2377,Utah,Hawaii,5996.0
+2378,Utah,Illinois,35520.0
+2379,Utah,Indiana,0.0
+2380,Utah,Idaho,31403.0
+2381,Utah,West Virginia,0.0
+2382,Utah,Tennessee,13709.0
+2383,Utah,Arizona,65020.0
+2384,Utah,Massachusetts,16100.0
+2385,Hawaii,Montana,0.0
+2386,Hawaii,Florida,970.0
+2387,Hawaii,Washington,63403.0
+2388,Hawaii,Arkansas,0.0
+2389,Hawaii,South Dakota,0.0
+2390,Hawaii,Mississippi,0.0
+2391,Hawaii,Kansas,0.0
+2392,Hawaii,Virginia,1722.0
+2393,Hawaii,Georgia,6789.0
+2394,Hawaii,Kentucky,0.0
+2395,Hawaii,Rhode Island,0.0
+2396,Hawaii,Oklahoma,173.0
+2397,Hawaii,Louisiana,0.0
+2398,Hawaii,Minnesota,811.0
+2399,Hawaii,U.S. Pacific Trust Territories and Possessions,6712.0
+2400,Hawaii,Michigan,0.0
+2401,Hawaii,Pennsylvania,0.0
+2402,Hawaii,Nebraska,0.0
+2403,Hawaii,Wyoming,0.0
+2404,Hawaii,Oregon,15753.0
+2405,Hawaii,Iowa,0.0
+2406,Hawaii,South Carolina,0.0
+2407,Hawaii,Vermont,0.0
+2408,Hawaii,Maryland,0.0
+2409,Hawaii,Connecticut,0.0
+2410,Hawaii,North Carolina,5058.0
+2411,Hawaii,New Mexico,0.0
+2412,Hawaii,U.S. Virgin Islands,0.0
+2413,Hawaii,Texas,31614.0
+2414,Hawaii,New Jersey,4954.0
+2415,Hawaii,New Hampshire,0.0
+2416,Hawaii,Alaska,1313.0
+2417,Hawaii,North Dakota,0.0
+2418,Hawaii,Maine,0.0
+2419,Hawaii,Colorado,22068.0
+2420,Hawaii,California,339247.0
+2421,Hawaii,Missouri,0.0
+2422,Hawaii,Nevada,28694.0
+2423,Hawaii,Delaware,0.0
+2424,Hawaii,Wisconsin,0.0
+2425,Hawaii,New York,5584.0
+2426,Hawaii,Puerto Rico,0.0
+2427,Hawaii,Ohio,0.0
+2428,Hawaii,Alabama,0.0
+2429,Hawaii,Utah,5784.0
+2430,Hawaii,Hawaii,317422.0
+2431,Hawaii,Illinois,12192.0
+2432,Hawaii,Indiana,0.0
+2433,Hawaii,Idaho,0.0
+2434,Hawaii,West Virginia,0.0
+2435,Hawaii,Tennessee,0.0
+2436,Hawaii,Arizona,30733.0
+2437,Hawaii,Massachusetts,3346.0
+2438,Illinois,Montana,18090.0
+2439,Illinois,Florida,326895.0
+2440,Illinois,Washington,77839.0
+2441,Illinois,Arkansas,11735.0
+2442,Illinois,South Dakota,15188.0
+2443,Illinois,Mississippi,249.0
+2444,Illinois,Kansas,10051.0
+2445,Illinois,Virginia,113034.0
+2446,Illinois,Georgia,110965.0
+2447,Illinois,Kentucky,53161.0
+2448,Illinois,Rhode Island,15929.0
+2449,Illinois,Oklahoma,21000.0
+2450,Illinois,Louisiana,10663.0
+2451,Illinois,Minnesota,82647.0
+2452,Illinois,U.S. Pacific Trust Territories and Possessions,0.0
+2453,Illinois,Michigan,104836.0
+2454,Illinois,Pennsylvania,109418.0
+2455,Illinois,Nebraska,32846.0
+2456,Illinois,Wyoming,9065.0
+2457,Illinois,Oregon,35922.0
+2458,Illinois,Iowa,30405.0
+2459,Illinois,South Carolina,38685.0
+2460,Illinois,Vermont,9931.0
+2461,Illinois,Maryland,42227.0
+2462,Illinois,Connecticut,24645.0
+2463,Illinois,North Carolina,86458.0
+2464,Illinois,New Mexico,11027.0
+2465,Illinois,U.S. Virgin Islands,203.0
+2466,Illinois,Texas,257324.0
+2467,Illinois,New Jersey,51537.0
+2468,Illinois,New Hampshire,9966.0
+2469,Illinois,Alaska,12392.0
+2470,Illinois,North Dakota,7060.0
+2471,Illinois,Maine,27540.0
+2472,Illinois,Colorado,139816.0
+2473,Illinois,California,307109.0
+2474,Illinois,Missouri,90694.0
+2475,Illinois,Nevada,121016.0
+2476,Illinois,Delaware,0.0
+2477,Illinois,Wisconsin,56950.0
+2478,Illinois,New York,172533.0
+2479,Illinois,Puerto Rico,9497.0
+2480,Illinois,Ohio,94901.0
+2481,Illinois,Alabama,9204.0
+2482,Illinois,Utah,34922.0
+2483,Illinois,Hawaii,11075.0
+2484,Illinois,Illinois,39357.0
+2485,Illinois,Indiana,38952.0
+2486,Illinois,Idaho,10965.0
+2487,Illinois,West Virginia,3473.0
+2488,Illinois,Tennessee,84106.0
+2489,Illinois,Arizona,112685.0
+2490,Illinois,Massachusetts,71986.0
+2491,Indiana,Montana,0.0
+2492,Indiana,Florida,62993.0
+2493,Indiana,Washington,4386.0
+2494,Indiana,Arkansas,0.0
+2495,Indiana,South Dakota,115.0
+2496,Indiana,Mississippi,254.0
+2497,Indiana,Kansas,153.0
+2498,Indiana,Virginia,10830.0
+2499,Indiana,Georgia,48634.0
+2500,Indiana,Kentucky,149.0
+2501,Indiana,Rhode Island,0.0
+2502,Indiana,Oklahoma,0.0
+2503,Indiana,Louisiana,0.0
+2504,Indiana,Minnesota,15823.0
+2505,Indiana,U.S. Pacific Trust Territories and Possessions,0.0
+2506,Indiana,Michigan,16102.0
+2507,Indiana,Pennsylvania,7121.0
+2508,Indiana,Nebraska,160.0
+2509,Indiana,Wyoming,0.0
+2510,Indiana,Oregon,172.0
+2511,Indiana,Iowa,153.0
+2512,Indiana,South Carolina,1262.0
+2513,Indiana,Vermont,0.0
+2514,Indiana,Maryland,9329.0
+2515,Indiana,Connecticut,148.0
+2516,Indiana,North Carolina,25329.0
+2517,Indiana,New Mexico,0.0
+2518,Indiana,U.S. Virgin Islands,0.0
+2519,Indiana,Texas,45521.0
+2520,Indiana,New Jersey,4072.0
+2521,Indiana,New Hampshire,99.0
+2522,Indiana,Alaska,0.0
+2523,Indiana,North Dakota,108.0
+2524,Indiana,Maine,132.0
+2525,Indiana,Colorado,26022.0
+2526,Indiana,California,9823.0
+2527,Indiana,Missouri,0.0
+2528,Indiana,Nevada,20079.0
+2529,Indiana,Delaware,0.0
+2530,Indiana,Wisconsin,0.0
+2531,Indiana,New York,8243.0
+2532,Indiana,Puerto Rico,0.0
+2533,Indiana,Ohio,0.0
+2534,Indiana,Alabama,0.0
+2535,Indiana,Utah,0.0
+2536,Indiana,Hawaii,0.0
+2537,Indiana,Illinois,38839.0
+2538,Indiana,Indiana,88.0
+2539,Indiana,Idaho,0.0
+2540,Indiana,West Virginia,0.0
+2541,Indiana,Tennessee,232.0
+2542,Indiana,Arizona,14579.0
+2543,Indiana,Massachusetts,6461.0
+2544,Idaho,Montana,9.0
+2545,Idaho,Florida,0.0
+2546,Idaho,Washington,33134.0
+2547,Idaho,Arkansas,0.0
+2548,Idaho,South Dakota,0.0
+2549,Idaho,Mississippi,0.0
+2550,Idaho,Kansas,0.0
+2551,Idaho,Virginia,0.0
+2552,Idaho,Georgia,2749.0
+2553,Idaho,Kentucky,0.0
+2554,Idaho,Rhode Island,0.0
+2555,Idaho,Oklahoma,181.0
+2556,Idaho,Louisiana,0.0
+2557,Idaho,Minnesota,6804.0
+2558,Idaho,U.S. Pacific Trust Territories and Possessions,0.0
+2559,Idaho,Michigan,0.0
+2560,Idaho,Pennsylvania,0.0
+2561,Idaho,Nebraska,0.0
+2562,Idaho,Wyoming,0.0
+2563,Idaho,Oregon,5743.0
+2564,Idaho,Iowa,0.0
+2565,Idaho,South Carolina,0.0
+2566,Idaho,Vermont,0.0
+2567,Idaho,Maryland,0.0
+2568,Idaho,Connecticut,0.0
+2569,Idaho,North Carolina,0.0
+2570,Idaho,New Mexico,0.0
+2571,Idaho,U.S. Virgin Islands,0.0
+2572,Idaho,Texas,15557.0
+2573,Idaho,New Jersey,0.0
+2574,Idaho,New Hampshire,0.0
+2575,Idaho,Alaska,0.0
+2576,Idaho,North Dakota,118.0
+2577,Idaho,Maine,0.0
+2578,Idaho,Colorado,29940.0
+2579,Idaho,California,41407.0
+2580,Idaho,Missouri,0.0
+2581,Idaho,Nevada,11113.0
+2582,Idaho,Delaware,0.0
+2583,Idaho,Wisconsin,0.0
+2584,Idaho,New York,342.0
+2585,Idaho,Puerto Rico,0.0
+2586,Idaho,Ohio,0.0
+2587,Idaho,Alabama,0.0
+2588,Idaho,Utah,32248.0
+2589,Idaho,Hawaii,0.0
+2590,Idaho,Illinois,11160.0
+2591,Idaho,Indiana,0.0
+2592,Idaho,Idaho,70.0
+2593,Idaho,West Virginia,0.0
+2594,Idaho,Tennessee,194.0
+2595,Idaho,Arizona,15006.0
+2596,Idaho,Massachusetts,0.0
+2597,West Virginia,Montana,0.0
+2598,West Virginia,Florida,5376.0
+2599,West Virginia,Washington,0.0
+2600,West Virginia,Arkansas,0.0
+2601,West Virginia,South Dakota,0.0
+2602,West Virginia,Mississippi,0.0
+2603,West Virginia,Kansas,0.0
+2604,West Virginia,Virginia,2964.0
+2605,West Virginia,Georgia,4432.0
+2606,West Virginia,Kentucky,0.0
+2607,West Virginia,Rhode Island,0.0
+2608,West Virginia,Oklahoma,171.0
+2609,West Virginia,Louisiana,0.0
+2610,West Virginia,Minnesota,0.0
+2611,West Virginia,U.S. Pacific Trust Territories and Possessions,0.0
+2612,West Virginia,Michigan,0.0
+2613,West Virginia,Pennsylvania,854.0
+2614,West Virginia,Nebraska,0.0
+2615,West Virginia,Wyoming,0.0
+2616,West Virginia,Oregon,0.0
+2617,West Virginia,Iowa,103.0
+2618,West Virginia,South Carolina,161.0
+2619,West Virginia,Vermont,0.0
+2620,West Virginia,Maryland,129.0
+2621,West Virginia,Connecticut,0.0
+2622,West Virginia,North Carolina,7906.0
+2623,West Virginia,New Mexico,0.0
+2624,West Virginia,U.S. Virgin Islands,0.0
+2625,West Virginia,Texas,0.0
+2626,West Virginia,New Jersey,0.0
+2627,West Virginia,New Hampshire,0.0
+2628,West Virginia,Alaska,0.0
+2629,West Virginia,North Dakota,0.0
+2630,West Virginia,Maine,0.0
+2631,West Virginia,Colorado,0.0
+2632,West Virginia,California,0.0
+2633,West Virginia,Missouri,0.0
+2634,West Virginia,Nevada,0.0
+2635,West Virginia,Delaware,0.0
+2636,West Virginia,Wisconsin,0.0
+2637,West Virginia,New York,0.0
+2638,West Virginia,Puerto Rico,0.0
+2639,West Virginia,Ohio,0.0
+2640,West Virginia,Alabama,0.0
+2641,West Virginia,Utah,0.0
+2642,West Virginia,Hawaii,0.0
+2643,West Virginia,Illinois,2717.0
+2644,West Virginia,Indiana,0.0
+2645,West Virginia,Idaho,0.0
+2646,West Virginia,West Virginia,1254.0
+2647,West Virginia,Tennessee,0.0
+2648,West Virginia,Arizona,0.0
+2649,West Virginia,Massachusetts,0.0
+2650,Tennessee,Montana,997.0
+2651,Tennessee,Florida,132466.0
+2652,Tennessee,Washington,13710.0
+2653,Tennessee,Arkansas,959.0
+2654,Tennessee,South Dakota,0.0
+2655,Tennessee,Mississippi,1550.0
+2656,Tennessee,Kansas,0.0
+2657,Tennessee,Virginia,36705.0
+2658,Tennessee,Georgia,120669.0
+2659,Tennessee,Kentucky,167.0
+2660,Tennessee,Rhode Island,0.0
+2661,Tennessee,Oklahoma,616.0
+2662,Tennessee,Louisiana,0.0
+2663,Tennessee,Minnesota,21945.0
+2664,Tennessee,U.S. Pacific Trust Territories and Possessions,0.0
+2665,Tennessee,Michigan,31344.0
+2666,Tennessee,Pennsylvania,33884.0
+2667,Tennessee,Nebraska,473.0
+2668,Tennessee,Wyoming,0.0
+2669,Tennessee,Oregon,0.0
+2670,Tennessee,Iowa,2036.0
+2671,Tennessee,South Carolina,10602.0
+2672,Tennessee,Vermont,0.0
+2673,Tennessee,Maryland,15279.0
+2674,Tennessee,Connecticut,3573.0
+2675,Tennessee,North Carolina,72991.0
+2676,Tennessee,New Mexico,154.0
+2677,Tennessee,U.S. Virgin Islands,0.0
+2678,Tennessee,Texas,157559.0
+2679,Tennessee,New Jersey,15686.0
+2680,Tennessee,New Hampshire,0.0
+2681,Tennessee,Alaska,0.0
+2682,Tennessee,North Dakota,978.0
+2683,Tennessee,Maine,0.0
+2684,Tennessee,Colorado,50427.0
+2685,Tennessee,California,51970.0
+2686,Tennessee,Missouri,20986.0
+2687,Tennessee,Nevada,20782.0
+2688,Tennessee,Delaware,103.0
+2689,Tennessee,Wisconsin,8684.0
+2690,Tennessee,New York,33361.0
+2691,Tennessee,Puerto Rico,103.0
+2692,Tennessee,Ohio,13471.0
+2693,Tennessee,Alabama,6.0
+2694,Tennessee,Utah,13679.0
+2695,Tennessee,Hawaii,0.0
+2696,Tennessee,Illinois,80486.0
+2697,Tennessee,Indiana,258.0
+2698,Tennessee,Idaho,176.0
+2699,Tennessee,West Virginia,0.0
+2700,Tennessee,Tennessee,1.0
+2701,Tennessee,Arizona,24132.0
+2702,Tennessee,Massachusetts,20466.0
+2703,Arizona,Montana,5638.0
+2704,Arizona,Florida,42713.0
+2705,Arizona,Washington,84081.0
+2706,Arizona,Arkansas,0.0
+2707,Arizona,South Dakota,7930.0
+2708,Arizona,Mississippi,0.0
+2709,Arizona,Kansas,1412.0
+2710,Arizona,Virginia,14156.0
+2711,Arizona,Georgia,48857.0
+2712,Arizona,Kentucky,7085.0
+2713,Arizona,Rhode Island,0.0
+2714,Arizona,Oklahoma,17583.0
+2715,Arizona,Louisiana,1278.0
+2716,Arizona,Minnesota,44975.0
+2717,Arizona,U.S. Pacific Trust Territories and Possessions,0.0
+2718,Arizona,Michigan,26409.0
+2719,Arizona,Pennsylvania,30271.0
+2720,Arizona,Nebraska,15377.0
+2721,Arizona,Wyoming,1227.0
+2722,Arizona,Oregon,44161.0
+2723,Arizona,Iowa,11329.0
+2724,Arizona,South Carolina,0.0
+2725,Arizona,Vermont,0.0
+2726,Arizona,Maryland,10288.0
+2727,Arizona,Connecticut,115.0
+2728,Arizona,North Carolina,39090.0
+2729,Arizona,New Mexico,26966.0
+2730,Arizona,U.S. Virgin Islands,0.0
+2731,Arizona,Texas,218747.0
+2732,Arizona,New Jersey,24739.0
+2733,Arizona,New Hampshire,3.0
+2734,Arizona,Alaska,2800.0
+2735,Arizona,North Dakota,4880.0
+2736,Arizona,Maine,0.0
+2737,Arizona,Colorado,125150.0
+2738,Arizona,California,407994.0
+2739,Arizona,Missouri,36621.0
+2740,Arizona,Nevada,88528.0
+2741,Arizona,Delaware,0.0
+2742,Arizona,Wisconsin,20873.0
+2743,Arizona,New York,22904.0
+2744,Arizona,Puerto Rico,0.0
+2745,Arizona,Ohio,18077.0
+2746,Arizona,Alabama,5.0
+2747,Arizona,Utah,67361.0
+2748,Arizona,Hawaii,29853.0
+2749,Arizona,Illinois,112400.0
+2750,Arizona,Indiana,14618.0
+2751,Arizona,Idaho,14980.0
+2752,Arizona,West Virginia,0.0
+2753,Arizona,Tennessee,23364.0
+2754,Arizona,Arizona,45097.0
+2755,Arizona,Massachusetts,18577.0
+2756,Massachusetts,Montana,226.0
+2757,Massachusetts,Florida,163849.0
+2758,Massachusetts,Washington,27579.0
+2759,Massachusetts,Arkansas,0.0
+2760,Massachusetts,South Dakota,0.0
+2761,Massachusetts,Mississippi,0.0
+2762,Massachusetts,Kansas,0.0
+2763,Massachusetts,Virginia,63412.0
+2764,Massachusetts,Georgia,59422.0
+2765,Massachusetts,Kentucky,4565.0
+2766,Massachusetts,Rhode Island,216.0
+2767,Massachusetts,Oklahoma,166.0
+2768,Massachusetts,Louisiana,1940.0
+2769,Massachusetts,Minnesota,26108.0
+2770,Massachusetts,U.S. Pacific Trust Territories and Possessions,0.0
+2771,Massachusetts,Michigan,26878.0
+2772,Massachusetts,Pennsylvania,31739.0
+2773,Massachusetts,Nebraska,0.0
+2774,Massachusetts,Wyoming,67.0
+2775,Massachusetts,Oregon,5228.0
+2776,Massachusetts,Iowa,0.0
+2777,Massachusetts,South Carolina,13473.0
+2778,Massachusetts,Vermont,579.0
+2779,Massachusetts,Maryland,21103.0
+2780,Massachusetts,Connecticut,22.0
+2781,Massachusetts,North Carolina,56234.0
+2782,Massachusetts,New Mexico,0.0
+2783,Massachusetts,U.S. Virgin Islands,341.0
+2784,Massachusetts,Texas,57809.0
+2785,Massachusetts,New Jersey,25927.0
+2786,Massachusetts,New Hampshire,492.0
+2787,Massachusetts,Alaska,0.0
+2788,Massachusetts,North Dakota,16.0
+2789,Massachusetts,Maine,4041.0
+2790,Massachusetts,Colorado,38686.0
+2791,Massachusetts,California,90704.0
+2792,Massachusetts,Missouri,10165.0
+2793,Massachusetts,Nevada,15949.0
+2794,Massachusetts,Delaware,0.0
+2795,Massachusetts,Wisconsin,938.0
+2796,Massachusetts,New York,52784.0
+2797,Massachusetts,Puerto Rico,13319.0
+2798,Massachusetts,Ohio,13982.0
+2799,Massachusetts,Alabama,0.0
+2800,Massachusetts,Utah,15396.0
+2801,Massachusetts,Hawaii,2902.0
+2802,Massachusetts,Illinois,69344.0
+2803,Massachusetts,Indiana,6444.0
+2804,Massachusetts,Idaho,0.0
+2805,Massachusetts,West Virginia,0.0
+2806,Massachusetts,Tennessee,20094.0
+2807,Massachusetts,Arizona,17052.0
+2808,Massachusetts,Massachusetts,22335.0
